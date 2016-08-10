@@ -1,0 +1,302 @@
+@import "bootstrap-compass";
+@import "bootstrap-variables";
+// @import "font-awesome/font-awesome.css";
+@import "bootstrap";
+@import "compass";
+@import "carousel";
+@import "bootstrap-social";
+//travailler avec les sprites
+$icones-layout:smart;
+$icones-sprite-dimensions:true;
+ @import "icones/*.png";
+
+/* TYPO*/
+// @import url(http://fonts.googleapis.com/css?family=Shadows+Into+Light);
+@import url(http://fonts.googleapis.com/css?family=PT+Serif:400,700italic);
+@import url(http://fonts.googleapis.com/css?family=Droid+Serif:400,700italic&subset=latin,latin-ext);
+@import url(http://fonts.googleapis.com/css?family=Vollkorn:400,700italic&subset=latin,latin-ext);
+@import url(http://fonts.googleapis.com/css?family=Dancing+Script:700&subset=latin,latin-ext);
+//font-family: 'Shadows Into Light', cursive;
+@import url('http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css');
+@import url('http://fonts.googleapis.com/css?family=Actor|PT+Sans');
+//$typo-titre: 'Shadows Into Light', cursive;
+//$font-family-sans-serif:  "Actor", Helvetica, Arial, sans-serif;
+//$font-family-sans-serif:  'Shadows Into Light', cursive;
+$typo-titre: 'Actor', sans-serif;
+$typo-texte: 'PT Sans', sans-serif;
+
+/* COULEUR*/
+$couleur-dark: lighten(rgb(0,0,0),30%);
+$couleur-front: rgb(255,0,0);
+$couleur-white: white;
+$blueazul: #72B1FF;
+$blue:blue;
+$text-shadow:  0 1px 0 #fff;
+
+
+
+/*=============================================================*/
+body{
+	 background: url(../img/bg.gif) ;
+	 font-family: sans-serif;
+	 color: #000;
+	 font-size: 16px;
+	 padding-bottom: 0px;
+
+	// background-image: url('/img/bg.gif');
+}
+
+.marketing{
+	background-color: #fff;
+	padding-top: 60px;
+	border-left: 3px solid $state-info-text;
+	border-right: 3px solid $state-info-text;
+	@include box-shadow(rgba(White, 2) 0 0 50px, rgba(white, 1) 0 0 30px 10px inset);
+	 min-height: 820px;
+
+}
+/* bouton ancre */
+// .top{
+// 	margin-top:-50px;
+// 	margin-right: -100px;
+// }
+// .top{float:right;width: 100px;position: fixed;bottom:50px;margin-left: 500px;}
+.top{position: fixed;bottom:0px;z-index: 999;}
+// .top a{display: block;background: grey;height: 50px;width: 70px;border-radius:10px;color:#FFF;font-weight: bold;text-align: center;line-height: 50px;}
+.top a{margin-right: -25px;
+
+}
+
+.mapmonde{
+	background: url(../img/gen_image_produit-2.png)no-repeat top 50px center scroll;
+	box-shadow: rgba(0, 0, 0, 0.3) 20px 20px 20px;
+}
+.fa-asterisk{
+	color:red;
+	font-size: 0.6em;
+}
+
+#navbar-brand-real{
+	color:$blue;
+	text-transform: capitalize;
+	//font-family: 'Vollkorn', serif;
+	font-family: 'Dancing Script', cursive;
+	font-style: italic;
+	font-weight: bold;
+	//font-size: 36px;
+	font-size: 40px;
+	 @include text-shadow(rgba(white, 0.2) 1px 1px 0, rgba(white, 0.2) 2px 2px 0, rgba(white, 0.2) 3px 3px 0);
+	 //text-shadow: #FFF 1px 1px 0px,#FFF -1px 1px 5px,#FFF -1px -1px 5px,#FFF 1px -1px 0px;
+}
+.nav > li > a {
+    padding-right: 10px;
+}
+/*------------------------------------*\
+    $flags
+\*------------------------------------*/
+
+span.flag ,ul.flag{
+	@include horizontal-list;
+	float: left;
+	margin-left: -10px;
+	padding: 24px 24px 0;
+	margin-top:-10px;
+ li.selected a {
+ 	@include opacity(0.2);
+ }
+
+	a{
+		display: block;
+		text-indent: -9999px;
+		&.Greek{
+			@include  icones-sprite(gr);
+		}
+		&.French{
+			@include  icones-sprite(fr);
+		}
+		&.English{
+			@include  icones-sprite(gb);
+		}
+
+	}
+
+}
+
+.navbar-static-top , .footer{
+	background-color: #7D8286;
+	//border-top: #fff 2px solid ;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+color: #0A0000;
+}
+
+ul li{
+	list-style: none;
+	//margin-top: 10px;
+}
+// contact
+.toto, .progress{
+	visibility: hidden;
+}
+.pagescontent h3 ,.pagescontent h2 ,.pagescontent b ,.pagescontent strong{
+	color:#FFA707;
+	text-transform: capitalize;
+}
+.page-header h1{
+	text-transform: capitalize;
+}
+.carousel-caption h1{
+	font-size:2.2em;
+}
+	#map1 {
+		min-width: 300px;
+		min-height: 360px;
+		width: 100%;
+		height: 100%;
+	}
+	#headerContact{
+		 background-color: #F5F5F5;
+		// color: #36A0FF;
+		height: 70px;
+		font-size: 27px;
+		padding: 10px;
+		border-bottom: 1px solid #333;
+
+	}
+
+.footer{
+	color:#fff;
+	font-style: italic;
+	font-family: sans-serif;
+	& a{ color:#fff;
+		text-decoration: underline;
+
+	 }
+}
+.aside-image{
+	text-align: right;
+	text-decoration: none;
+	color:#000;
+	background: url(../img/panels/business_premises.jpg)no-repeat top  center scroll;
+
+}
+
+.asidepropertysearch div label , .media-body h2{
+	color:#428BCA;
+}
+
+#busy-indicator { display:none; }// indicateur de rechargement ajax
+// #blogmaster {
+// 	min-height: 700px;
+// 		p:first-letter{
+// 			text-transform: capitalize;
+// 		}
+// }
+
+.panel-body form fieldset .button{
+	margin-top: 10px;
+}
+//tag vignettes for sale properties index
+.pan-property .offer-type {
+    // position: absolute;
+    // top: 0px;
+    // left: 20px;
+    // z-index: 1000;
+    // background: none repeat scroll 0% 0% rgba(0, 0, 0, 0.7);
+    //     background-color: rgba(255, 0, 0, 0.7);
+    //     background-image: none;
+    //     background-repeat: repeat;
+    //     background-attachment: scroll;
+    //     background-position: 0% 0%;
+    //     background-clip: border-box;
+    //     background-origin: padding-box;
+    //     background-size: auto auto;
+    // display: inline-block;
+    // padding: 3px 4px;
+    //     padding-top: 3px;
+    //     padding-right-value: 4px;
+    //     padding-bottom: 3px;
+    //     padding-left-value: 4px;
+    //     padding-left-ltr-source: physical;
+    //     padding-left-rtl-source: physical;
+    //     padding-right-ltr-source: physical;
+    //     padding-right-rtl-source: physical;
+    // color: #fff;
+
+    display: block;
+    background-color: #ff0000;
+ 	position: absolute;
+	width: 150px;
+	height: 30px;
+	top: -200px;
+	right: -200px;
+	padding: 5px 5px 5px 45px;
+	-webkit-transform: rotate(45deg);
+	-moz-transform: rotate(45deg);
+	-o-transform: rotate(4deg);
+	transform:rotate(45deg);
+	color: #FFF;-moz-transform: rotate(45deg);position: absolute;top: 25px;	right: -35px;font-size: 18px;-webkit-transform: rotate(45deg);
+transform:rotate(45deg);
+}
+
+.offer-type:first-letter{
+			text-transform: capitalize;
+		}
+
+
+
+
+/*---------------------login box-shadow----------*/
+
+#container-login {
+	color: #000;
+    background-color: #e2dada;
+}
+
+.centered-form {
+	color: #000;
+    margin-top: 60px;
+    margin-bottom: 120px;
+}
+
+.centered-form .panel, .well-panel, .panel-proporty{
+    background: rgba(255, 255, 255, 0.8);
+    box-shadow: rgba(0, 0, 0, 0.3) 20px 20px 20px;
+}
+
+/*---panel proporty shadow-------*/
+aside{
+	z-index: 999;
+}
+// .panel-proporty{
+// 	z-index:1000;
+// }
+.panel-proporty .panel{
+	box-shadow: rgba(0, 0, 0, 0.3) 20px 20px 20px;
+}
+
+/*------------------fin login--------------*/
+
+@media (min-width: 992px) {
+
+	[role="navigation"]{
+		@include horizontal-list;
+			li{
+				&+li{
+					border-left: 1px solid $couleur-dark;
+				}
+			}
+		}
+
+	.container .row aside .panel-proporty{
+		margin-top:-250px;
+	}
+}
+
+// @media (min-width: 768px){
+// 	.navbar-nav > li > a {
+// 		padding-top: 15px;
+// 		padding-bottom: 15px
+// 	}
+// }

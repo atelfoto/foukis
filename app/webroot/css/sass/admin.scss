@@ -1,0 +1,88 @@
+@import "bootstrap-compass";
+@import "bootstrap-variables";
+@import "bootstrap";
+@import "compass";
+
+@import "../admin/_AdminLTE";
+@import "bootstrap-toggle.scss";
+//travailler avec les sprites
+$icones-layout:smart;
+$icones-sprite-dimensions:true;
+@import "icones/*.png";
+
+/* TYPO*/
+@import url(http://fonts.googleapis.com/css?family=Shadows+Into+Light);
+//font-family: 'Shadows Into Light', cursive;
+@import url('http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css');
+@import url('http://fonts.googleapis.com/css?family=Actor|PT+Sans');
+//$typo-titre: 'Shadows Into Light', cursive;
+//$font-family-sans-serif:  "Actor", Helvetica, Arial, sans-serif;
+//$font-family-sans-serif:  'Shadows Into Light', cursive;
+$typo-titre: 'Actor', sans-serif;
+$typo-texte: 'PT Sans', sans-serif;
+
+/* COULEUR*/
+$couleur-dark: lighten(rgb(0,0,0),30%);
+$couleur-front: rgb(255,0,0);
+$couleur-white: white;
+
+//$menu-width: 250px !default;
+
+/*=============================================================*/
+#busy-indicator { display:none; }// indicateur de rechargement ajax
+#blogmaster {
+	min-height: 700px;
+		p:first-letter{
+			text-transform: capitalize;
+		}
+}
+
+/*------------------------------------*\
+    $flags
+\*------------------------------------*/
+
+ul.flag{
+	@include horizontal-list;
+	float: left;
+	margin-left: -24px;
+	padding: 24px 24px 0;
+	margin-top:-10px;
+ li.selected a {
+ 	@include opacity(0.2);
+ }
+
+	a{
+		display: block;
+		text-indent: -9999px;
+		&.Greek{
+			@include  icones-sprite(gr);
+		}
+		&.French{
+			@include  icones-sprite(fr);
+		}
+		&.English{
+			@include  icones-sprite(gb);
+		}
+
+	}
+
+}
+
+.panel-body form fieldset .button{
+	margin-top: 10px;
+}
+
+th a.asc:after {
+	content: ' ';
+}
+th a.desc:after {
+	content: ' *';
+}
+
+form .input .required label:after{
+	color: #E32;
+content: '*';
+display: inline;
+}
+
+

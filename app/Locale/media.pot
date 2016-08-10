@@ -1,0 +1,142 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Plugin/Media/Model/Media.php:54
+msgid "Le model '%s' n'a pas le comportement 'Media'"
+msgstr ""
+
+#: Plugin/Media/Model/Media.php:69
+msgid "Vous ne pouvez pas uploader ce type de fichier (%s seulement)"
+msgstr ""
+
+#: Plugin/Media/Model/Media.php:77
+msgid "Vous ne pouvez envoyer qu'un nombre limité de fichier (%d). Veuillez en supprimer avant d'en envoyer de nouveau."
+msgstr ""
+
+#: Plugin/Media/Model/Media.php:86
+msgid "La largeur maximum autorisée est de %dpx"
+msgstr ""
+
+#: Plugin/Media/Model/Media.php:90
+msgid "La hauteur maximum autorisée est de %dpx"
+msgstr ""
+
+#: Plugin/Media/Model/Media.php:98
+msgid "Vous ne pouvez pas envoyer un fichier supérieur à %s"
+msgstr ""
+
+#: Plugin/Media/View/Medias/index.ctp:9
+#: Plugin/Media/View/Medias/media.ctp:28
+msgid "Nom du fichier"
+msgstr ""
+
+#: Plugin/Media/View/Medias/index.ctp:15
+#: Plugin/Media/View/Medias/media.ctp:35
+msgid "Titre"
+msgstr ""
+
+#: Plugin/Media/View/Medias/index.ctp:19
+#: Plugin/Media/View/Medias/media.ctp:39
+msgid "Texte alternatif"
+msgstr ""
+
+#: Plugin/Media/View/Medias/index.ctp:23
+#: Plugin/Media/View/Medias/media.ctp:43
+msgid "Cible du lien"
+msgstr ""
+
+#: Plugin/Media/View/Medias/index.ctp:27
+#: Plugin/Media/View/Medias/media.ctp:47
+msgid "Alignement"
+msgstr ""
+
+#: Plugin/Media/View/Medias/index.ctp:30
+#: Plugin/Media/View/Medias/media.ctp:50
+msgid "Aucun"
+msgstr ""
+
+#: Plugin/Media/View/Medias/index.ctp:33
+#: Plugin/Media/View/Medias/media.ctp:53
+msgid "Gauche"
+msgstr ""
+
+#: Plugin/Media/View/Medias/index.ctp:36
+#: Plugin/Media/View/Medias/media.ctp:56
+msgid "Centre"
+msgstr ""
+
+#: Plugin/Media/View/Medias/index.ctp:39
+#: Plugin/Media/View/Medias/media.ctp:59
+msgid "Droite"
+msgstr ""
+
+#: Plugin/Media/View/Medias/index.ctp:45
+#: Plugin/Media/View/Medias/media.ctp:65
+msgid "Insérer dans l'article"
+msgstr ""
+
+#: Plugin/Media/View/Medias/index.ctp:54
+msgid "Déplacer les fichiers ici"
+msgstr ""
+
+#: Plugin/Media/View/Medias/index.ctp:55
+msgid "ou"
+msgstr ""
+
+#: Plugin/Media/View/Medias/index.ctp:56
+msgid "Parcourir"
+msgstr ""
+
+#: Plugin/Media/View/Medias/index.ctp:57
+msgid "%s seulement"
+msgstr ""
+
+#: Plugin/Media/View/Medias/index.ctp:63
+msgid "Médias"
+msgstr ""
+
+#: Plugin/Media/View/Medias/index.ctp:65
+msgid "Actions"
+msgstr ""
+
+#: Plugin/Media/View/Medias/index.ctp:157
+msgid "Voulez vous vraiment supprimer ce média ?"
+msgstr ""
+
+#: Plugin/Media/View/Medias/index.ctp:169;178
+#: Plugin/Media/View/Medias/media.ctp:19
+msgid "Afficher"
+msgstr ""
+
+#: Plugin/Media/View/Medias/index.ctp:170
+msgid "Cacher"
+msgstr ""
+
+#: Plugin/Media/View/Medias/media.ctp:12
+msgid "Mettre en image à la une"
+msgstr ""
+
+#: Plugin/Media/View/Medias/media.ctp:14;65
+msgid "Supprimer"
+msgstr ""
+
+#: Plugin/Media/View/Medias/media.ctp:17
+msgid "Insérer le lien l'article"
+msgstr ""
+
+#: Plugin/Media/View/Medias/media.ctp:29
+msgid "Taille de l'image"
+msgstr ""
+

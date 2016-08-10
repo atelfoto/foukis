@@ -1,0 +1,1482 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2015-01-21 17:10+0100\n"
+"PO-Revision-Date: 2015-01-21 17:19+0100\n"
+"Last-Translator: philippe wagner <atelfoto@msn.com>\n"
+"Language-Team:  <EMAIL@ADDRESS>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.7.3\n"
+
+#: Controller/CarrouselsController.php:59;91;116
+msgid "Invalid carrousel"
+msgstr "Carrousel non valide"
+
+#: Controller/CarrouselsController.php:74;95
+msgid "The carrousel has been saved."
+msgstr "Le carrousel a été enregistré."
+
+#: Controller/CarrouselsController.php:77;98
+msgid "The carrousel could not be saved. Please, try again."
+msgstr ""
+"L'opération n'a pas pu être sauvé. S'il vous plaît réessayer plus tard."
+
+#: Controller/CarrouselsController.php:120
+msgid "The carrousel has been deleted."
+msgstr "Le carrousel a été supprimé."
+
+#: Controller/CarrouselsController.php:122
+msgid "The carrousel could not be deleted. Please, try again."
+msgstr ""
+"L'opération n'a pas pu être supprimé. S'il vous plaît réessayer plus tard."
+
+#: Controller/ContactsController.php:11 Controller/OfferingsController.php:17
+msgid "Your Mail us is reached."
+msgstr "Merci Votre Mail nous est bien parvenu."
+
+#: Controller/ContactsController.php:15 Controller/OfferingsController.php:21
+msgid "Thank you.Your Mail Us is reached."
+msgstr "Merci Votre Mail nous est bien parvenu."
+
+#: Controller/ContactsController.php:18 Controller/OfferingsController.php:24
+msgid "Thank you to correct your fields."
+msgstr "Merci de corriger vos erreurs"
+
+#: Controller/LinksController.php:54;100;125
+msgid "Invalid link"
+msgstr "Lien invalide"
+
+#: Controller/LinksController.php:82;104
+msgid "The link has been saved."
+msgstr "Le lien a été enregistré."
+
+#: Controller/LinksController.php:85;107
+msgid "The link could not be saved. Please, try again."
+msgstr "Le lien n'a pas été sauvegardé. Veuillez réessayer."
+
+#: Controller/LinksController.php:129
+msgid "The link has been deleted."
+msgstr "Le lien a été supprimé."
+
+#: Controller/LinksController.php:131
+msgid "The link could not be deleted. Please, try again."
+msgstr ""
+"L'opération n'a pas pu être supprimé. S'il vous plaît réessayer plus tard."
+
+#: Controller/PostsController.php:56;91;116
+msgid "Invalid post"
+msgstr "Action invalide"
+
+#: Controller/PostsController.php:72;95
+msgid "The post has been saved."
+msgstr "Le post a été enregistré."
+
+#: Controller/PostsController.php:75;98
+msgid "The post could not be saved. Please, try again."
+msgstr ""
+"L'opération n'a pas pu être sauvé. S'il vous plaît réessayer plus tard."
+
+#: Controller/PostsController.php:120
+msgid "The post has been deleted."
+msgstr "Le poste a été supprimé."
+
+#: Controller/PostsController.php:122
+msgid "The post could not be deleted. Please, try again."
+msgstr ""
+"L'opération n'a pas pu être supprimé. S'il vous plaît réessayer plus tard."
+
+#: Controller/PropertiesController.php:64;168;198
+msgid "Invalid property"
+msgstr "Propriété non valide"
+
+#: Controller/PropertiesController.php:112;145;172
+msgid "The property has been saved."
+msgstr "La propriété a été enregistrée."
+
+#: Controller/PropertiesController.php:115;148;175
+msgid "The property could not be saved. Please, try again."
+msgstr ""
+"L'opération n'a pas pu être supprimé. S'il vous plaît réessayer plus tard."
+
+#: Controller/PropertiesController.php:202
+msgid "The property has been deleted."
+msgstr "La propriété a été supprimée."
+
+#: Controller/PropertiesController.php:204
+msgid "The property could not be deleted. Please, try again."
+msgstr ""
+"L'opération n'a pas pu être supprimé. S'il vous plaît réessayer plus tard."
+
+#: Controller/UsersController.php:23;224
+msgid "The user has been added"
+msgstr "L'utilisateur a été ajouté"
+
+#: Controller/UsersController.php:26
+msgid "This login is already used. Please, Try another."
+msgstr "Ce login est déjà utilisé. S'il vous plaît, essayez une autre."
+
+#: Controller/UsersController.php:49
+msgid "Your information is been modified"
+msgstr "Vos information ont été modifié."
+
+#: Controller/UsersController.php:82
+msgid "You are connected."
+msgstr "Vous êtes connecté."
+
+#: Controller/UsersController.php:85
+msgid "Incorrect password."
+msgstr "Le mot de passe est incorrect"
+
+#: Controller/UsersController.php:91
+msgid "You are disconnected"
+msgstr "Vous êtes déconnecté"
+
+#: Controller/UsersController.php:122
+msgid ""
+"Thank you you are registered mail sent to you to confirm your compte."
+"Veuillez check your spam in case."
+msgstr ""
+"Merci vous êtes bien inscrit un mail vous a été envoyé pour valider votre "
+"compte.Veuillez vérifier vos spam au cas où."
+
+#: Controller/UsersController.php:125
+msgid "Thank you to correct your mistakes"
+msgstr "Merci de corriger vos erreurs"
+
+#: Controller/UsersController.php:138
+msgid "This email address is not associated with any account"
+msgstr "Cet email n'est associé à aucun compte:"
+
+#: Controller/UsersController.php:152
+msgid ""
+"An email was sent to you with instructions to regenerate your password! "
+"Please check your span !!"
+msgstr ""
+"Un Email vous a été envoyé avec les instructions pour regénérer votre mot de "
+"passe! Veuillez vérifier vos span!!"
+
+#: Controller/UsersController.php:164
+msgid "This link does not look good"
+msgstr "Ce lien ne semble pas bon"
+
+#: Controller/UsersController.php:177
+msgid "Your password has been changed"
+msgstr "Votre mot de passe a été modifié avec succès."
+
+#: Controller/UsersController.php:189
+msgid "This change link is not good"
+msgstr "Ce lien ne semble pas bon"
+
+#: Controller/UsersController.php:192
+msgid "Your account has been validated"
+msgstr "Votre compte a été validé"
+
+#: Controller/UsersController.php:219
+msgid "Passwords do not match"
+msgstr "Les mots de passe ne correspondent pas"
+
+#: Controller/UsersController.php:242
+msgid "the user has been deleted"
+msgstr "l'utilisateur a été supprimé"
+
+#: Plugin/BoostCake/Controller/BoostCakeController.php:18
+msgid "Debug setting does not allow access to this url."
+msgstr "Le réglage de débogage ne permet pas l'accès à cette URL."
+
+#: Plugin/BoostCake/Controller/BoostCakeController.php:27
+#: Plugin/BoostCake/View/Elements/bootstrap2/alerts.ctp:6
+msgid "Alert notice message testing..."
+msgstr "Un message de test avis d'alerte ..."
+
+#: Plugin/BoostCake/Controller/BoostCakeController.php:30;41
+#: Plugin/BoostCake/View/Elements/bootstrap2/alerts.ctp:10
+#: Plugin/BoostCake/View/Elements/bootstrap3/alerts.ctp:6
+msgid "Alert success message testing..."
+msgstr "Un message test de réussite d&#39;alerte ..."
+
+#: Plugin/BoostCake/Controller/BoostCakeController.php:34
+#: Plugin/BoostCake/View/Elements/bootstrap2/alerts.ctp:15
+msgid "Alert error message testing..."
+msgstr "Un message de test avis d'alerte ..."
+
+#: Plugin/BoostCake/Controller/BoostCakeController.php:45
+#: Plugin/BoostCake/View/Elements/bootstrap3/alerts.ctp:11
+msgid "Alert info message testing..."
+msgstr "Un message de test avis d'alerte ..."
+
+#: Plugin/BoostCake/Controller/BoostCakeController.php:49
+#: Plugin/BoostCake/View/Elements/bootstrap3/alerts.ctp:16
+msgid "Alert warning message testing..."
+msgstr "Un message de test avis d'alerte ..."
+
+#: Plugin/BoostCake/Controller/BoostCakeController.php:53
+#: Plugin/BoostCake/View/Elements/bootstrap3/alerts.ctp:21
+msgid "Alert danger message testing..."
+msgstr "Un message de test avis d'alerte ..."
+
+#: View/Calendars/calendar.ctp:6 View/Dashboard/dashboard.ctp:111
+msgid "Calendar"
+msgstr "Calendrier"
+
+#: View/Calendars/calendar.ctp:7
+msgid " Calendar "
+msgstr "Calendrier"
+
+#: View/Carrousels/add.ctp:4
+msgid "Add Carrousel"
+msgstr "Ajouter Carrousel"
+
+#: View/Carrousels/add.ctp:14 View/Carrousels/edit.ctp:15
+#: View/Contacts/index.ctp:71 View/Links/add.ctp:20
+#: View/Offerings/index.ctp:145 View/Properties/add.ctp:52
+#: View/Properties/edit.ctp:54 View/Users/add.ctp:51 View/Users/edit.ctp:21
+#: View/Users/forgot.ctp:10 View/Users/signup.ctp:20
+msgid "Submit"
+msgstr "Soumettre"
+
+#: View/Carrousels/add.ctp:17 View/Carrousels/edit.ctp:18
+#: View/Carrousels/index.ctp:14;52 View/Carrousels/view.ctp:47
+#: View/Links/view.ctp:29 View/Posts/index.ctp:14;52
+msgid "Actions"
+msgstr "Actions"
+
+#: View/Carrousels/add.ctp:20 View/Carrousels/edit.ctp:22
+#: View/Carrousels/view.ctp:51
+msgid "List Carrousels"
+msgstr "Liste des Carrousels"
+
+#: View/Carrousels/edit.ctp:4 View/Carrousels/view.ctp:49
+msgid "Edit Carrousel"
+msgstr "Editer"
+
+#: View/Carrousels/edit.ctp:21 View/Carrousels/index.ctp:31
+#: View/Posts/index.ctp:31
+msgid "Delete"
+msgstr "Effacer"
+
+#: View/Carrousels/edit.ctp:21 View/Carrousels/index.ctp:31
+#: View/Carrousels/view.ctp:50 View/Links/view.ctp:32 View/Posts/index.ctp:31
+msgid "Are you sure you want to delete # %s?"
+msgstr "Êtes-vous sûr de vouloir supprimer # %?"
+
+#: View/Carrousels/index.ctp:2
+msgid "Carrousels"
+msgstr "Carrousels"
+
+#: View/Carrousels/index.ctp:29 View/Posts/index.ctp:29
+msgid "View"
+msgstr "Vue"
+
+#: View/Carrousels/index.ctp:30 View/Posts/index.ctp:30
+msgid "Edit"
+msgstr "Editer"
+
+#: View/Carrousels/index.ctp:40 View/Posts/index.ctp:40
+msgid ""
+"Page {:page} of {:pages}, showing {:current} records out of {:count} total, "
+"starting on record {:start}, ending on {:end}"
+msgstr ""
+"Page {:page} de {:pages}, montrant {:current} registres de {:count} total, "
+"de registre {:start} à {:end}"
+
+#: View/Carrousels/index.ctp:45 View/Posts/index.ctp:45
+msgid "previous"
+msgstr "précédente"
+
+#: View/Carrousels/index.ctp:47 View/Posts/index.ctp:47
+msgid "next"
+msgstr "Suivant"
+
+#: View/Carrousels/index.ctp:54 View/Carrousels/view.ctp:52
+msgid "New Carrousel"
+msgstr "Nouveau Carrousel"
+
+#: View/Carrousels/view.ctp:2
+msgid "Carrousel"
+msgstr "Carrousel"
+
+#: View/Carrousels/view.ctp:4 View/Links/view.ctp:5
+#: View/Properties/search.ctp:75 View/Properties/view.ctp:75
+#: View/Properties/viewOK.ctp:43
+msgid "Id"
+msgstr "Id"
+
+#: View/Carrousels/view.ctp:9 View/Elements/Posts/form.ctp:12
+#: View/Links/add.ctp:14 View/Links/view.ctp:10 View/Offerings/index.ctp:22
+#: View/Posts/add.ctp:15 View/Users/account.ctp:23 View/Users/add.ctp:14
+msgid "Name"
+msgstr "Nom"
+
+#: View/Carrousels/view.ctp:14
+msgid "Slug"
+msgstr "slug"
+
+#: View/Carrousels/view.ctp:19 View/Links/view.ctp:20
+#: View/Properties/search.ctp:100 View/Properties/view.ctp:100
+#: View/Properties/viewOK.ctp:68
+msgid "Created"
+msgstr "créé"
+
+#: View/Carrousels/view.ctp:24
+msgid "Image"
+msgstr "image"
+
+#: View/Carrousels/view.ctp:29 View/Elements/Posts/form.ctp:21
+#: View/Posts/add.ctp:24 View/Properties/add.ctp:46
+msgid "Content"
+msgstr "Contenu"
+
+#: View/Carrousels/view.ctp:34
+msgid "Button"
+msgstr "Bouton"
+
+#: View/Carrousels/view.ctp:39
+msgid "Title"
+msgstr "Titre"
+
+#: View/Carrousels/view.ctp:50
+msgid "Delete Carrousel"
+msgstr "Supprimer"
+
+#: View/Contacts/index.ctp:1;10 View/Users/contact.ctp:12
+msgid "Contact Form"
+msgstr "Contact"
+
+#: View/Contacts/index.ctp:6 View/Offerings/index.ctp:11
+msgid "Feel free to contact us for any questions or comments you have:"
+msgstr "Si vous avez des questions, n'hésitez pas à nous contacter."
+
+#: View/Contacts/index.ctp:13 View/Offerings/index.ctp:17
+msgid "Required field:"
+msgstr "Champs obligatoire :"
+
+#: View/Contacts/index.ctp:17;22
+msgid "Your Name :"
+msgstr "Votre nom :"
+
+#: View/Contacts/index.ctp:26;31
+msgid "Your Email :"
+msgstr "Votre Email :"
+
+#: View/Contacts/index.ctp:37;42
+msgid "your Phone :"
+msgstr "votre téléphone :"
+
+#: View/Contacts/index.ctp:46;51 View/Offerings/index.ctp:38;42
+msgid "Your Mobile"
+msgstr "Votre Mobile"
+
+#: View/Contacts/index.ctp:55
+msgid "Subject :&nbsp;<i class=\"fa fa-asterisk\"></i>"
+msgstr "Sujet :&nbsp;<i class=\"fa fa-asterisk\"></i>"
+
+#: View/Contacts/index.ctp:56
+msgid "Subject of your message:"
+msgstr "Sujet de votre message"
+
+#: View/Contacts/index.ctp:58
+msgid "Your Message "
+msgstr "Votre message"
+
+#: View/Contacts/index.ctp:63 View/Offerings/index.ctp:139
+msgid "Enter Your message ..."
+msgstr "Introduisez votre message"
+
+#: View/Contacts/index.ctp:72 View/Links/add.ctp:21
+#: View/Offerings/index.ctp:146 View/Properties/edit.ctp:57
+#: View/Users/account.ctp:36 View/Users/add.ctp:52 View/Users/login.ctp:33
+#: View/Users/signup.ctp:21
+msgid "Reset"
+msgstr "Réinitialiser"
+
+#: View/Contacts/index.ctp:83
+msgid "Adress"
+msgstr "Adresse"
+
+#: View/Dashboard/dashboard.ctp:3
+msgid "Dashboard"
+msgstr "Tableau de bord"
+
+#: View/Dashboard/dashboard.ctp:4
+msgid " Dashboard "
+msgstr "Tableau de bord"
+
+#: View/Dashboard/dashboard.ctp:12 View/Layouts/admin.ctp:340
+#: View/Users/account.ctp:3 View/Users/add.ctp:2 View/Users/edit.ctp:2
+msgid "Users"
+msgstr "Utilisateurs"
+
+#: View/Dashboard/dashboard.ctp:18
+msgid "View users"
+msgstr "Liste des utilisateurs"
+
+#: View/Dashboard/dashboard.ctp:28 View/Layouts/admin.ctp:352
+#: View/Properties/add.ctp:2 View/Properties/adminindex.ctp:1;2
+#: View/Properties/edit.ctp:2 View/Properties/index.ctp:1
+msgid "Properties"
+msgstr "Propriétés"
+
+#: View/Dashboard/dashboard.ctp:34
+msgid "View Properties"
+msgstr "Liste des Propriétés"
+
+#: View/Dashboard/dashboard.ctp:44;51 View/Links/view.ctp:33
+msgid "List Links"
+msgstr "Liste des liens"
+
+#: View/Dashboard/dashboard.ctp:61;68 View/Posts/add.ctp:2
+#: View/Posts/index.ctp:2
+msgid "Posts"
+msgstr "Posts"
+
+#: View/Dashboard/dashboard.ctp:81
+msgid "Quick Email"
+msgstr "Rapide Email"
+
+#: View/Dashboard/dashboard.ctp:90
+msgid "Email to:"
+msgstr "Email"
+
+#: View/Dashboard/dashboard.ctp:93
+msgid "Subject"
+msgstr "Objet"
+
+#: View/Dashboard/dashboard.ctp:101
+msgid "Send"
+msgstr "Envoyer"
+
+#: View/Dashboard/dashboard.ctp:118
+msgid "Add new event"
+msgstr "Ajouter un événement"
+
+#: View/Dashboard/dashboard.ctp:119
+msgid "Clear events"
+msgstr "Evénements"
+
+#: View/Dashboard/dashboard.ctp:121
+msgid "View calendar"
+msgstr "Voir calendrier"
+
+#: View/Elements/aside-1.ctp:10;74 View/Properties/residential_search.ctp:51
+msgid "Search"
+msgstr "Recherche"
+
+#: View/Elements/aside-1.ctp:28
+msgid "Residential"
+msgstr "Residence"
+
+#: View/Elements/aside-1.ctp:29;39;57
+msgid "click here"
+msgstr "Cliquez ici"
+
+#: View/Elements/aside-1.ctp:35
+msgid "land"
+msgstr "terrains"
+
+#: View/Elements/aside-1.ctp:38 View/Offerings/index.ctp:76
+msgid "Land"
+msgstr "Terrains"
+
+#: View/Elements/aside-1.ctp:48
+msgid "Business Premises"
+msgstr "Locaux professionnels"
+
+#: View/Elements/aside-1.ctp:56
+msgid "Businesses"
+msgstr "Entreprises"
+
+#: View/Elements/aside-1.ctp:70
+msgid "Property ID"
+msgstr "Propriété ID"
+
+#: View/Elements/loan.ctp:2;5
+msgid "Loan"
+msgstr "Crédit"
+
+#: View/Elements/loan.ctp:10
+msgid "Loan Information:"
+msgstr "Renseignement du prêt"
+
+#: View/Elements/loan.ctp:11
+msgid "loan € :"
+msgstr "crédit €:"
+
+#: View/Elements/loan.ctp:13
+msgid "Period in Years:"
+msgstr "Temps en année"
+
+#: View/Elements/loan.ctp:16
+msgid "Payment Information:"
+msgstr "Renseignements sur les paiements"
+
+#: View/Elements/loan.ctp:17
+msgid "Monthly Payment :"
+msgstr "Traite mensuelle"
+
+#: View/Elements/loan.ctp:18
+msgid "Total Interest Paid :"
+msgstr "Taux d'intérêt"
+
+#: View/Elements/loan.ctp:23
+msgid "Calculate"
+msgstr "Calculer"
+
+#: View/Elements/navbar.ctp:18
+msgid "Home"
+msgstr "Accueil"
+
+#: View/Elements/navbar.ctp:21
+msgid "Services"
+msgstr "Services"
+
+#: View/Elements/navbar.ctp:24
+msgid "Informations"
+msgstr "Informations"
+
+#: View/Elements/navbar.ctp:27 View/Layouts/admin.ctp:364 View/Links/add.ctp:3
+#: View/Links/adminindex.ctp:1;6 View/Links/edit.ctp:2
+msgid "Links"
+msgstr "Liens"
+
+#: View/Elements/navbar.ctp:30
+msgid "Offerings"
+msgstr "Investiture"
+
+#: View/Elements/navbar.ctp:33
+msgid "Contacts"
+msgstr "Contacts"
+
+#: View/Elements/pagination-counter.ctp:2
+msgid ""
+"Page {:page} of {:pages}, showing {:current} records out of {:count} total,\n"
+"\t\t\t\tstarting on record {:start}, ending on {:end}"
+msgstr ""
+"Page {:page} de {:pages}, montrant {:current} registres de {:count} total, "
+"de registre {:start} à {:end}"
+
+#: View/Elements/Posts/form.ctp:5 View/Elements/Posts/form2.ctp:9
+#: View/Posts/add.ctp:8
+msgid "Add Post"
+msgstr "Ajouter un post"
+
+#: View/Elements/Posts/form.ctp:28 View/Posts/add.ctp:31
+msgid "<i class=\"glyphicon glyphicon-share\"></i> List Posts"
+msgstr "<i class=\"glyphicon glyphicon-share\"></i> Liste des postes"
+
+#: View/Elements/Posts/form.ctp:30 View/Posts/add.ctp:33
+msgid "<i class=\"glyphicon glyphicon-ok\"></i> Submit"
+msgstr "<i class=\"glyphicon glyphicon-ok\"></i> Envoyer"
+
+#: View/Elements/Posts/form.ctp:32 View/Posts/add.ctp:35
+msgid "<i class=\"glyphicon glyphicon-remove\"></i> Reset"
+msgstr "<i class=\"glyphicon glyphicon-remove\"></i> Réinitialiser"
+
+#: View/Layouts/admin.ctp:27
+msgid "See the website"
+msgstr "Voir le site"
+
+#: View/Layouts/admin.ctp:273
+msgid "<i class=\"fa fa-fw fa-user\"></i> Profile"
+msgstr "<i class=\"fa fa-fw fa-user\"></i> Profile"
+
+#: View/Layouts/admin.ctp:277
+msgid "<i class='fa  fa-power-off'></i> Sign out"
+msgstr "<i class='fa  fa-power-off'></i> Se déconnecter"
+
+#: View/Layouts/admin.ctp:302
+msgid "Hello"
+msgstr "Bonjour"
+
+#: View/Layouts/admin.ctp:310
+msgid "Online"
+msgstr "En ligne"
+
+#: View/Layouts/admin.ctp:316
+msgid "Search..."
+msgstr "Recherche"
+
+#: View/Layouts/admin.ctp:326
+msgid "<i class='fa fa-fw fa-dashboard'></i> Dashboard"
+msgstr "<i class='fa fa-fw fa-dashboard'></i> Tableau de bord"
+
+#: View/Layouts/admin.ctp:330
+msgid ""
+"<i class=\"fa fa-calendar\"></i> <span>Calendar</span><small class=\"badge "
+"pull-right bg-red\">13</small>"
+msgstr ""
+"<i class=\"fa fa-calendar\"></i> <span>Calendrier</span><small class=\"badge "
+"pull-right bg-red\">13</small>"
+
+#: View/Layouts/admin.ctp:345
+msgid "<i class='fa fa-fw fa-users'></i> Users"
+msgstr "<i class=\"fa fa-fw fa-user\"></i> Utilisateurs"
+
+#: View/Layouts/admin.ctp:357
+msgid "<i class=\"fa fa-fw fa-building\"></i> Properties"
+msgstr "<i class=\"fa fa-fw fa-building\"></i> Propriétées"
+
+#: View/Layouts/admin.ctp:369
+msgid "<i class=\"fa fa-fw fa-link\"></i>  Links"
+msgstr "<i class=\"fa fa-fw fa-link\"></i>  Liens"
+
+#: View/Layouts/admin.ctp:373
+msgid "<i class=\"fa fa-fw fa-plus\"></i>  Add"
+msgstr "<i class=\"fa fa-fw fa-plus\"></i>  AJouter"
+
+#: View/Layouts/admin.ctp:380
+msgid "Post"
+msgstr "Post"
+
+#: View/Layouts/admin.ctp:385
+msgid "<i class=\"fa fa-fw fa-picture-o\"></i>   Post"
+msgstr "<i class=\"fa fa-fw fa-picture-o\"></i>   Post"
+
+#: View/Layouts/admin.ctp:446
+msgid "<i class='fa fa-fw fa fa-dashboard'></i> Home "
+msgstr "<i class='fa fa-fw fa fa-dashboard'></i>Accueil"
+
+#: View/Layouts/default.ctp:80
+msgid "top"
+msgstr "haut de page"
+
+#: View/Layouts/default.ctp:88
+msgid "Imprint"
+msgstr "Mentions légales"
+
+#: View/Layouts/default.ctp:90
+msgid "Contact Us"
+msgstr "Contacts"
+
+#: View/Layouts/default.ctp:91
+msgid "Subscribe to the newsletter"
+msgstr "S'inscrire à la newsletter"
+
+#: View/Layouts/default.ctp:92
+msgid "Site map"
+msgstr "Site map"
+
+#: View/Layouts/default.ctp:95
+msgid ""
+"<b>Schedule agency : </b> </br>The real estate agency Th. FOUKIS works:\n"
+"    \t\t</br>Monday to Saturday from 8 h 30 am to 9 pm  and on weekends from "
+"9 am to 7.3O pm."
+msgstr ""
+"<b>Horaire de l’ agence : </b> </br>L'agence immobilière Th. FOUKIS "
+"fonctionne:\n"
+"    \t\t</br>Du lundi au samedi de 8 h30 à 21 h et le week-end de 9 h3O à 19 "
+"h."
+
+#: View/Links/add.ctp:1;4;8
+msgid "Add Link"
+msgstr "Ajouter un lien"
+
+#: View/Links/add.ctp:18 View/Links/edit.ctp:22
+msgid "<i class=\"glyphicon glyphicon-share\"></i> List links"
+msgstr "<i class=\"glyphicon glyphicon-share\"></i> Liste des Lienss"
+
+#: View/Links/adminindex.ctp:2
+msgid " Links"
+msgstr "Liens"
+
+#: View/Links/adminindex.ctp:16
+msgid "<i class=\"glyphicon glyphicon-import\"></i> New Link"
+msgstr "<i class=\"glyphicon glyphicon-import\"></i> Nouveau lien"
+
+#: View/Links/adminindex.ctp:30 View/Posts/adminindex.ctp:29
+#: View/Properties/adminindex.ctp:53 View/Users/index.ctp:23
+msgid "<span class=\"label label-default\">Disabled</span>"
+msgstr "<span class=\"label label-default\">Désactivé</span>"
+
+#: View/Links/adminindex.ctp:31 View/Posts/adminindex.ctp:30
+#: View/Properties/adminindex.ctp:54 View/Users/index.ctp:24
+msgid "<span class=\"label label-success\">Enabled</span>"
+msgstr "<span class=\"label label-success\">Activé</span>"
+
+#: View/Links/adminindex.ctp:34 View/Posts/adminindex.ctp:33
+msgid "<i class=\"glyphicon glyphicon-pencil\"></i>&nbsp;Edit"
+msgstr "<i class=\"glyphicon glyphicon-pencil\"></i>&nbsp;Editer"
+
+#: View/Links/adminindex.ctp:38 View/Posts/adminindex.ctp:37
+msgid "<i class=\"glyphicon glyphicon-trash\"></i>&nbsp;Delete"
+msgstr "<i class=\"glyphicon glyphicon-trash\"></i>&nbsp;Suprimer"
+
+#: View/Links/adminindex.ctp:39 View/Posts/adminindex.ctp:38
+msgid "Are you sure you want to delete  %s?"
+msgstr "Etes vous sur de vouloir suprimer %s?"
+
+#: View/Links/edit.ctp:1;3;8;13 View/Links/view.ctp:31
+msgid "Edit Link"
+msgstr "Editer "
+
+#: View/Links/edit.ctp:25
+msgid "submit"
+msgstr "Envoyer"
+
+#: View/Links/edit.ctp:28 View/Properties/add.ctp:55 View/Users/edit.ctp:22
+msgid "reset"
+msgstr "Réinitialiser"
+
+#: View/Links/index.ctp:2
+msgid "Useful Links"
+msgstr "Liens utiles"
+
+#: View/Links/view.ctp:3
+msgid "Link"
+msgstr "Lien"
+
+#: View/Links/view.ctp:15
+msgid "Url"
+msgstr "Url"
+
+#: View/Links/view.ctp:32
+msgid "Delete Link"
+msgstr "Suprimer le lien"
+
+#: View/Links/view.ctp:34
+msgid "New Link"
+msgstr "Nouveau lien"
+
+#: View/Offerings/index.ctp:2
+msgid "Offer your property"
+msgstr "Signalez votre bien immobilier."
+
+#: View/Offerings/index.ctp:3
+msgid " Offer your property"
+msgstr "Signalez votre bien immobilier."
+
+#: View/Offerings/index.ctp:26
+msgid "Your Name"
+msgstr "Votre nom"
+
+#: View/Offerings/index.ctp:30
+msgid "Phone"
+msgstr "Téléphone"
+
+#: View/Offerings/index.ctp:34
+msgid "Your Phone"
+msgstr "Votre Téléphone"
+
+#: View/Offerings/index.ctp:50
+msgid "Your Fax"
+msgstr "Votre Fax"
+
+#: View/Offerings/index.ctp:58 View/Users/forgot.ctp:8
+msgid "Your Mail"
+msgstr "Votre Mail"
+
+#: View/Offerings/index.ctp:62
+msgid "Property Type:"
+msgstr "type de Propriété"
+
+#: View/Offerings/index.ctp:68
+msgid "Apartment"
+msgstr "Appartement"
+
+#: View/Offerings/index.ctp:69
+msgid "Duplex / Triplex Apartmen"
+msgstr "Appartement duplex / Triplex"
+
+#: View/Offerings/index.ctp:70
+msgid "Single Floor Apartmen"
+msgstr "Simple étage "
+
+#: View/Offerings/index.ctp:71
+msgid "Studio"
+msgstr "Studio"
+
+#: View/Offerings/index.ctp:72
+msgid "Studio Apartment"
+msgstr "Studio Apartement"
+
+#: View/Offerings/index.ctp:73
+msgid "Penthouse"
+msgstr "Penthouse"
+
+#: View/Offerings/index.ctp:74
+msgid "House"
+msgstr "maison"
+
+#: View/Offerings/index.ctp:75
+msgid "Villa"
+msgstr "Villa"
+
+#: View/Offerings/index.ctp:77
+msgid "Agricultural Land Plot"
+msgstr "Terrain Agricole Terrain"
+
+#: View/Offerings/index.ctp:78
+msgid "Island"
+msgstr "Ile"
+
+#: View/Offerings/index.ctp:79
+msgid "Shop"
+msgstr "Boutique"
+
+#: View/Offerings/index.ctp:80
+msgid "Office"
+msgstr "Bureau"
+
+#: View/Offerings/index.ctp:81
+msgid "Store Room"
+msgstr "Débarras"
+
+#: View/Offerings/index.ctp:82
+msgid "Building"
+msgstr "Bâtiment"
+
+#: View/Offerings/index.ctp:83
+msgid "Hotel"
+msgstr "Hotel"
+
+#: View/Offerings/index.ctp:84
+msgid "Camping"
+msgstr "Camping"
+
+#: View/Offerings/index.ctp:85
+msgid "Bungalow"
+msgstr "Bungalow"
+
+#: View/Offerings/index.ctp:86
+msgid "Business"
+msgstr "Entreprise"
+
+#: View/Offerings/index.ctp:87
+msgid "Goodwill"
+msgstr ""
+
+#: View/Offerings/index.ctp:88
+msgid "(choose)"
+msgstr "Choisir"
+
+#: View/Offerings/index.ctp:93
+msgid "For Rent"
+msgstr "À Louer"
+
+#: View/Offerings/index.ctp:93 View/Properties/residential_search.ctp:12
+msgid "For Sale"
+msgstr "À Vendre"
+
+#: View/Offerings/index.ctp:100
+msgid "Size:"
+msgstr "Taille"
+
+#: View/Offerings/index.ctp:109;113 View/Properties/add.ctp:27
+#: View/Properties/adminindex.ctp:18 View/Properties/edit.ctp:24
+#: View/Properties/search.ctp:105 View/Properties/view.ctp:105
+#: View/Properties/viewOK.ctp:73
+msgid "Year"
+msgstr "Année"
+
+#: View/Offerings/index.ctp:117
+msgid "Price "
+msgstr "Prix"
+
+#: View/Offerings/index.ctp:121
+msgid "Price: "
+msgstr "Prix :"
+
+#: View/Offerings/index.ctp:125
+msgid "Address :"
+msgstr "Adresse :"
+
+#: View/Offerings/index.ctp:129
+msgid "Your Address :"
+msgstr "Votre adresse"
+
+#: View/Offerings/index.ctp:135
+msgid " Message"
+msgstr " Message"
+
+#: View/Pages/index.ctp:4
+msgid ""
+"\n"
+"\t\t\t\t\t\t<h2>The leading real estate company in Athens</h2>\n"
+"\t\t\t\t\t\t<p>Our real estate company was successfully established in 1994. "
+"We undertake any type of real estate whether\n"
+"\t\t\t\t\t\t\tit be from sales to rent, for buildings, hotels, land etc all "
+"over Greece.\n"
+"\t\t\t\t\t\t </p>\n"
+"\t\t\t\t\t<p>We are situated in the heart of Athens in Kaniggos 32 and "
+"Solomou corner. Our company employs\n"
+"\t\t\t\t\t 40 permanent staff, most of them being coworkers. The heads are "
+"Mr Theofanis Foukis and Mrs Rezin-Zaklin-Mari Wagner.\n"
+"\t\t\t\t\t</p>\n"
+"\t\t\t\t\t<p>Up to the present day our company has undertaken over 15.000 "
+"properties all over Greece with\n"
+"\t\t\t\t\t a high standard of credibility, professionalism. Our extensive "
+"experience guarantees the irreproachable\n"
+"\t\t\t\t\t co-operation and the great satisfaction offering our clients "
+"legal, notarial and technical support.\n"
+"\t\t\t\t\t</p>\n"
+"\t\t\t\t\t"
+msgstr ""
+
+#: View/Pages/index.ctp:26
+msgid "Property <span class=\"text-muted\">of the week</span>"
+msgstr ""
+
+#: View/Posts/add.ctp:27
+msgid "&nbsp; online"
+msgstr "&nbsp;&nbsp;En Ligne ?"
+
+#: View/Posts/adminindex.ctp:1
+msgid " Posts"
+msgstr " Posts"
+
+#: View/Posts/adminindex.ctp:5
+msgid "posts"
+msgstr "posts"
+
+#: View/Posts/adminindex.ctp:15
+msgid "<i class=\"glyphicon glyphicon-import\"></i> New Post"
+msgstr "<i class=\"glyphicon glyphicon-import\"></i> Nouveau Post"
+
+#: View/Posts/edit.ctp:1
+msgid "Edit Post"
+msgstr "Editer l'article"
+
+#: View/Posts/edit.ctp:2
+msgid " posts"
+msgstr "Posts"
+
+#: View/Posts/edit.ctp:3
+msgid "Add post"
+msgstr "Ajouter un post"
+
+#: View/Posts/index.ctp:54
+msgid "New Post"
+msgstr "Nouveau Post"
+
+#: View/Properties/add.ctp:1;8
+msgid "Add Property"
+msgstr "Ajouter une Propriété"
+
+#: View/Properties/add.ctp:3
+msgid " Add Property"
+msgstr "Ajouter une Propriété"
+
+#: View/Properties/add.ctp:19;20;21;28;35
+msgid "choose"
+msgstr "Choisir"
+
+#: View/Properties/add.ctp:48
+msgid "online"
+msgstr "En ligne"
+
+#: View/Properties/add.ctp:48 View/Properties/edit.ctp:50
+msgid "&nbsp;&nbsp;Online ?"
+msgstr "&nbsp;&nbsp;En Ligne ?"
+
+#: View/Properties/adminindex.ctp:11
+msgid "quanties"
+msgstr "Quantités"
+
+#: View/Properties/adminindex.ctp:23
+msgid "Modified"
+msgstr "Modifier"
+
+#: View/Properties/adminindex.ctp:24
+msgid "<i class=\"glyphicon glyphicon-import\"></i> add "
+msgstr "<i class=\"glyphicon glyphicon-import\"></i>Ajouter un  lien"
+
+#: View/Properties/adminindex.ctp:60
+msgid "<i class='glyphicon glyphicon-pencil'></i>&nbsp;Edit"
+msgstr "<i class='glyphicon glyphicon-pencil'></i>&nbsp;Editer"
+
+#: View/Properties/adminindex.ctp:64
+msgid "<i class='glyphicon glyphicon-trash'></i>&nbsp;Delete"
+msgstr "<i class='glyphicon glyphicon-trash'></i>&nbsp;Suprimer"
+
+#: View/Properties/adminindex.ctp:66
+msgid "Are you sure you want to delete "
+msgstr "Etes vous sur de vouloir suprimer %s?"
+
+#: View/Properties/edit.ctp:1;9
+msgid "Edit Property"
+msgstr "Editer la Propriété"
+
+#: View/Properties/edit.ctp:3
+msgid "Edit property"
+msgstr "Editer la Propriété"
+
+#: View/Properties/index.ctp:16
+msgid "Beds"
+msgstr "Pieces"
+
+#: View/Properties/index.ctp:17
+msgid "Year:"
+msgstr "Année"
+
+#: View/Properties/index.ctp:18
+msgid "House Size:"
+msgstr "Taille de la maison"
+
+#: View/Properties/index.ctp:19
+msgid "Level:"
+msgstr "Niveau:"
+
+#: View/Properties/index.ctp:28
+msgid "Read more"
+msgstr "Lire la suite"
+
+#: View/Properties/residential_search.ctp:5
+msgid "I am searching Residential Property:"
+msgstr "propriétés à usage résidentiel"
+
+#: View/Properties/residential_search.ctp:12
+msgid "To Let"
+msgstr "À louer"
+
+#: View/Properties/residential_search.ctp:12
+msgid "Giving in exchange for"
+msgstr "Donner en échange de"
+
+#: View/Properties/search.ctp:10 View/Properties/view.ctp:10
+msgid "Load Image"
+msgstr "Charger l'image"
+
+#: View/Properties/search.ctp:19 View/Properties/view.ctp:19
+msgid "back"
+msgstr "retour"
+
+#: View/Properties/search.ctp:21 View/Properties/view.ctp:21
+msgid "mail"
+msgstr "Email"
+
+#: View/Properties/search.ctp:23 View/Properties/view.ctp:23
+msgid "print"
+msgstr "Imprimer"
+
+#: View/Properties/search.ctp:60 View/Properties/view.ctp:60
+#: View/Properties/viewOK.ctp:30
+msgid "Property Description"
+msgstr "Description"
+
+#: View/Properties/search.ctp:67 View/Properties/view.ctp:67
+#: View/Properties/viewOK.ctp:35
+msgid "Property Feature"
+msgstr "Détails"
+
+#: View/Properties/search.ctp:70 View/Properties/view.ctp:70
+msgid "Overview"
+msgstr "Vue d'ensemble"
+
+#: View/Properties/search.ctp:80 View/Properties/view.ctp:80
+#: View/Properties/viewOK.ctp:48
+msgid "State"
+msgstr "Pays:"
+
+#: View/Properties/search.ctp:83 View/Properties/view.ctp:83
+#: View/Properties/viewOK.ctp:51
+msgid "Area"
+msgstr "Région:"
+
+#: View/Properties/search.ctp:86 View/Properties/view.ctp:86
+#: View/Properties/viewOK.ctp:54
+msgid "Status"
+msgstr "Statut"
+
+#: View/Properties/search.ctp:89 View/Properties/view.ctp:89
+#: View/Properties/viewOK.ctp:57
+msgid "Type"
+msgstr "Type"
+
+#: View/Properties/search.ctp:95 View/Properties/view.ctp:95
+#: View/Properties/viewOK.ctp:63
+msgid "Size"
+msgstr "Dimension:"
+
+#: View/Properties/search.ctp:110 View/Properties/view.ctp:110
+#: View/Properties/viewOK.ctp:78
+msgid "Bedrooms"
+msgstr "Piéces:"
+
+#: View/Properties/search.ctp:115 View/Properties/view.ctp:115
+#: View/Properties/viewOK.ctp:83
+msgid "Level"
+msgstr "Niveau"
+
+#: View/Properties/search.ctp:124 View/Properties/view.ctp:124
+#: View/Properties/viewOK.ctp:92
+msgid "Price"
+msgstr "Prix:"
+
+#: View/Properties/viewOK.ctp:38
+msgid "Details"
+msgstr "Details"
+
+#: View/Services/index.ctp:6
+msgid ""
+"<h3>Rénovations</h3>\n"
+"\n"
+"\t\t\t<p>Notre agence désirant étendre ses services à votre avantage, "
+"entreprend tous les travaux de rénovations de votre logement, qu'il s'agit "
+"d'un simple rafraîchissement de peinture jusqu'aux travaux les plus "
+"exigeants et composés que vous ayez, en comprenant:</p>\n"
+"\t\t\t<ul>\n"
+"\t\t\t\t<li>des interventions architecturales.</li>\n"
+"\t\t\t\t<li>des installations hydrauliques et électriques.</li>\n"
+"\t\t\t\t<li>des changements d'équipements dans les espaces fonctionnels.</"
+"li>\n"
+"\t\t\t\t<li>des remplacements ou rénovations de planchers ...etc.</li>\n"
+"\t\t\t</ul>\n"
+"\n"
+"\t\t\t<p>D’un petit studio jusqu'à l'hôtel.</p>\n"
+"\n"
+"\t\t\t<p>Tous les travaux ci-dessus sont exécutés par des équipes techniques "
+"de la société, en observant des prescriptions sévères de qualité. Les "
+"travaux se réalisent sous surveillance sur tous les stades. L'achèvement des "
+"travaux en date prévue fait partie également de ce comcepte.</p>\n"
+"\n"
+"\t\t\t<h3>Crédit</h3>\n"
+"\n"
+"\t\t\t<p>Notre agence peut également vous renseigner en ce qui concerne les "
+"crédits à condition d'être résident en union européenne et d'avoir les "
+"coordonnées nécessaires. Les acheteurs qui ne sont pas résidant de l'union "
+"européenne ou qui n'ont pu obtenir un crédit, doivent s'adresser uniquement "
+"aux pays ou ils sont résidants.</p>\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\t\t\t<h3>Topographes</h3>\n"
+"\n"
+"\t\t\t<p>Notre agence dispose de topographes spécialisés, d’ingénieurs qui "
+"entreprennent des travaux de tout genre, topographies, délivrances "
+"d’autorisations etc. Pour plus d’informations contacter notre bureau au "
+"tel : +30 210 3306333- +30 210 3306595 fax +30 210 3846846</p>\n"
+"\n"
+"\t\t\t"
+msgstr ""
+
+#: View/Users/account.ctp:1
+msgid "Account"
+msgstr "Créer un compte"
+
+#: View/Users/account.ctp:20 View/Users/add.ctp:26;27 View/Users/login.ctp:11
+msgid "Username"
+msgstr "Nom d'utilisateur"
+
+#: View/Users/account.ctp:24
+msgid "firstname"
+msgstr "Prénom"
+
+#: View/Users/account.ctp:32
+msgid "Select a file from your computer"
+msgstr "Choisisez un fichier sur votre ordinateur"
+
+#: View/Users/account.ctp:35
+msgid "Change"
+msgstr "Change"
+
+#: View/Users/add.ctp:1
+msgid "Add Username"
+msgstr "Ajouter un utilisateur"
+
+#: View/Users/add.ctp:3
+msgid " Add Username"
+msgstr "Ajouter un utilisateur"
+
+#: View/Users/add.ctp:8
+msgid "Add a Username"
+msgstr "Ajouter un utilisateur"
+
+#: View/Users/add.ctp:15
+msgid "Lastname"
+msgstr "Nom"
+
+#: View/Users/add.ctp:20;21
+msgid "Firstname"
+msgstr "Prénom"
+
+#: View/Users/add.ctp:32;33 View/Users/login.ctp:19;23
+#: View/Users/password.ctp:6
+msgid "Password"
+msgstr "Mot de passe"
+
+#: View/Users/add.ctp:49 View/Users/edit.ctp:19
+msgid "<i class=\"glyphicon glyphicon-share\"></i> List Users"
+msgstr "<i class=\"glyphicon glyphicon-share\"></i> Liste des utilisateurs"
+
+#: View/Users/contact.ctp:2
+msgid "Contact"
+msgstr "Contact"
+
+#: View/Users/edit.ctp:1;3;8
+msgid "Edit User"
+msgstr "Editer un Utilisateur"
+
+#: View/Users/edit.ctp:13
+msgid "Login :"
+msgstr "S'identifier"
+
+#: View/Users/edit.ctp:14 View/Users/signup.ctp:13
+msgid "Password :"
+msgstr "Mot de passe:"
+
+#: View/Users/edit.ctp:15 View/Users/signup.ctp:15
+msgid "Confirm Password :"
+msgstr "Confirmer  mot de passe"
+
+#: View/Users/forgot.ctp:4
+msgid "Password Reminder"
+msgstr "Mot de passe oublié"
+
+#: View/Users/forgot.ctp:5
+msgid ""
+"To change your password please fill in the fields below your email address. "
+"<br>\n"
+"\t\t\t\t\t\t\tAn email will be sent with the information needed to create "
+"your new password"
+msgstr ""
+"Pour modifier votre mot de passe veuillez remplir les champs ci-dessous "
+"votre adresse email.<br>\n"
+"\t\t\t\t\t\t\tAn email sera envoyé avec les informations nécessaires pour "
+"créer votre nouveau mot de passe"
+
+#: View/Users/forgot.ctp:8
+msgid "Your Email"
+msgstr "Votre Email"
+
+#: View/Users/index.ctp:1;2
+msgid "List Users"
+msgstr "Liste des utilisateurs"
+
+#: View/Users/index.ctp:5
+msgid "Manage Users"
+msgstr "Gérer les utilisateurs"
+
+#: View/Users/index.ctp:14
+msgid "<i class=\"glyphicon glyphicon-import\"></i> Add User"
+msgstr "<i class=\"glyphicon glyphicon-import\"></i>Ajouter un  Utilisateur"
+
+#: View/Users/index.ctp:26
+msgid "<i class='glyphicon glyphicon-pencil'></i> Edit"
+msgstr "<i class='glyphicon glyphicon-pencil'></i>&nbsp;Editer"
+
+#: View/Users/index.ctp:30
+msgid "<i class='glyphicon glyphicon-trash'></i> Delete"
+msgstr "<i class='glyphicon glyphicon-trash'></i>&nbsp;Suprimer"
+
+#: View/Users/index.ctp:31
+msgid "Do you really want delete "
+msgstr "Etes vous sur de vouloir suprimer %s?"
+
+#: View/Users/index.ctp:31
+msgid " your users"
+msgstr "vos utilisateurs"
+
+#: View/Users/login.ctp:5
+msgid "Login"
+msgstr "S'identifier"
+
+#: View/Users/login.ctp:15
+msgid "username"
+msgstr "Utilisateur"
+
+#: View/Users/login.ctp:28
+msgid "Remember me"
+msgstr "Se souvenir de moi"
+
+#: View/Users/login.ctp:32
+msgid "Sign In "
+msgstr "Connexion"
+
+#: View/Users/login.ctp:38
+msgid "Forgot password?"
+msgstr "Mot de passe oublié?"
+
+#: View/Users/login.ctp:41
+msgid "Create account"
+msgstr "Créer un compte"
+
+#: View/Users/password.ctp:4
+msgid "Change password"
+msgstr "Changer le mot de passe"
+
+#: View/Users/password.ctp:7
+msgid "Confirm Password"
+msgstr "Confirmer  mot de passe"
+
+#: View/Users/signup.ctp:1;6
+msgid "Signup"
+msgstr "Se connecter"
+
+#: View/Users/signup.ctp:11
+msgid "Username :"
+msgstr "Utilisateur"
+
+#: View/Users/signup.ctp:15
+msgid "Confirm password :"
+msgstr "Confirmer  mot de passe"
+
+#: Model/Carrousel.php:validation for field name;validation image;validation
+#: title
+msgid "This field must not be empty"
+msgstr "Ce champ ne doit pas être vide"
+
+#: Model/Contact.php:validation for field name
+msgid "you must enter your name"
+msgstr "Vous devez entrer votre nom"
+
+#: Model/Contact.php:validation for field email
+msgid "You must enter a valid email address"
+msgstr "Vous devez entrer un email valide:"
+
+#: Model/Contact.php:validation for field mobile
+msgid "You must enter a numero mobile "
+msgstr "Vous devez entrer un numéro de mobile"
+
+#: Model/Contact.php:validation for field message
+msgid "You must enter your message"
+msgstr "Vous devez entrer un message:"
+
+#: Model/Contact.php:validation for field subject
+msgid "You must enter your subject"
+msgstr "Vous devez entrer un sujet:"
+
+#: Model/Link.php:validation for field name
+msgid "Please complete this field"
+msgstr "Svp completer le champ:"
+
+#: Model/Link.php:validation for field url
+msgid "Your url isn't valide"
+msgstr "Cette Url n'est pas valide:"
+
+#: Model/Offering.php:validation for field name
+msgid "You must enter your name"
+msgstr "Vous devez entrer votre nom:"
+
+#: Model/Offering.php:validation for field phone
+msgid "You must enter a numero telephone valid"
+msgstr "Vous devez entrer un numéro de téléphonne valide:"
+
+#: Model/Offering.php:validation for field mobile
+msgid "You must enter a numero mobile valide"
+msgstr "Vous devez entrer un numéro de téléphonne mobile valide:"
+
+#: Model/Offering.php:validation for field email
+msgid "You must enter your a Email valid"
+msgstr "Vous devez entrer un Email valide:"
+
+#: Model/Offering.php:validation for field size
+msgid "You must enter your area"
+msgstr "Vous devez entrer un Région"
+
+#: Model/Offering.php:validation for field property_id
+msgid "You must enter your  type of property"
+msgstr "Vous devez entrer le type de propriété:"
+
+#: Model/Offering.php:validation for field price
+msgid "You must enter a price"
+msgstr "vous devez indiquer un prix:"
+
+#: Model/Offering.php:validation for field address
+msgid "You must enter your area a adress"
+msgstr "Vous devez entrer votre région une adresse"
+
+#: Model/Offering.php:validation for field message
+msgid "You must enter your area a  message"
+msgstr "Vous devez entrer un message"
+
+#: Model/Offering.php:validation for field gender
+msgid "Please select one of these options."
+msgstr "Veuillez sélectionner une des options suivantes."
+
+#: Model/Post.php:validation for field slug
+msgid "L'url isn't valide"
+msgstr "Cette Url n'est pas valide:"
+
+#: Model/Post.php:validation for field name
+msgid "You must enter a title "
+msgstr "Vous devez entrer un titre:"
+
+#: Model/Property.php:validation for field name
+msgid "Your custom message here"
+msgstr "Votre message..."
+
+#: Model/Property.php:validation for field state_id;validation
+#: area_id;validation status_id;validation type_id
+msgid "notEmpty"
+msgstr "Non vide"
+
+#: Model/Property.php:validation for field size
+msgid "decimal"
+msgstr "décimal"
+
+#: Model/Property.php:validation for field price
+msgid "Thank you to submit a valid monetary amount."
+msgstr "Merci de soumettre une somme monétaire valide."
+
+#: Model/Property.php:validation for field online
+msgid "boolean"
+msgstr ""
+
+#: Model/Property.php:validation for field modified
+msgid "date no valid"
+msgstr "Date non valide:"
+
+#: Model/Property.php:validation for field bedrooms
+msgid "number of bed"
+msgstr "Nombre de lit:"
+
+#: Model/User.php:validation for field username
+msgid "Your user isn't invalid"
+msgstr "Cette Utilisateur n'est pas valide"
+
+#: Model/User.php:validation for field username
+msgid "This username is already used"
+msgstr "Cette Utilisateur est déja utilisé:"
+
+#: Model/User.php:validation for field username
+msgid "Between 5 and 15 characters"
+msgstr "Entre 5 et 15 charactére:"
+
+#: Model/User.php:validation for field mail
+msgid "You must enter a valid email "
+msgstr "Vous devez entrer un Email valide:"
+
+#: Model/User.php:validation for field mail
+msgid "This email is already used"
+msgstr "Cette Email est déja utilisé:"
+
+#: Model/User.php:validation for field password
+msgid "8 characters minimum"
+msgstr "8 charactéres minimum:"
+
+#: Model/User.php:validation for field password2
+msgid "Confirm your password"
+msgstr "Confirmer password"
+
+#: Model/User.php:validation for field avatarf
+msgid "Vous devez envoyer un jpg"
+msgstr "Vous devez envoyer un jpg"
+
+#~ msgid "Telephone"
+#~ msgstr "Téléphone"
+
+#~ msgid " Users"
+#~ msgstr "Utilisateurs"
+
+#~ msgid "L'url n'est pas valide"
+#~ msgstr "L'Url n'est pas valide:"
+
+#~ msgid "Add Links"
+#~ msgstr "Ajouter des liens"
+
+#~ msgid " Add"
+#~ msgstr "Ajouter"
+
+#~ msgid "Property"
+#~ msgstr "Propriété"
+
+#~ msgid " Edit"
+#~ msgstr "Editer"

@@ -1,0 +1,3037 @@
+# German translation of Croogo Application
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: croogo deutsch\n"
+"POT-Creation-Date: 2015-01-22 17:00+0100\n"
+"PO-Revision-Date: 2015-01-22 21:52+0100\n"
+"Last-Translator: philippe wagner <atelfoto@msn.com>\n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.7.3\n"
+
+#: Controller/CarrouselsController.php:59;91;116
+msgid "Invalid carrousel"
+msgstr "Ungültiges Model."
+
+#: Controller/CarrouselsController.php:74;95
+msgid "The carrousel has been saved."
+msgstr "Anlage wurde gespeichert"
+
+#: Controller/CarrouselsController.php:77;98
+msgid "The carrousel could not be saved. Please, try again."
+msgstr ""
+"Anlage konnte nicht gespeichert werden. Bitte versuchen Sie es nochmal."
+
+#: Controller/CarrouselsController.php:120
+msgid "The carrousel has been deleted."
+msgstr "Klassifizierungsliste wurde gespeicht."
+
+#: Controller/CarrouselsController.php:122
+msgid "The carrousel could not be deleted. Please, try again."
+msgstr "Der Begriff konnte nicht gelöscht werden. Bitte nochmal versuchen"
+
+#: Controller/ContactsController.php:11 Controller/OfferingsController.php:17
+msgid "Your Mail us is reached."
+msgstr ""
+
+#: Controller/ContactsController.php:15 Controller/OfferingsController.php:21
+msgid "Thank you.Your Mail Us is reached."
+msgstr ""
+
+#: Controller/ContactsController.php:18 Controller/OfferingsController.php:24
+msgid "Thank you to correct your fields."
+msgstr ""
+
+#: Controller/LinksController.php:54;100;125
+msgid "Invalid link"
+msgstr "Ungültiger Link"
+
+#: Controller/LinksController.php:82;104
+msgid "The link has been saved."
+msgstr "Link wurde gespeichert"
+
+#: Controller/LinksController.php:85;107
+msgid "The link could not be saved. Please, try again."
+msgstr "Der Link konnte nicht gespeichert werden. Bitte nochmal versuchen."
+
+#: Controller/LinksController.php:129
+msgid "The link has been deleted."
+msgstr "Link wurde gespeichert"
+
+#: Controller/LinksController.php:131
+msgid "The link could not be deleted. Please, try again."
+msgstr "Der Begriff konnte nicht gelöscht werden. Bitte nochmal versuchen"
+
+#: Controller/PagesController.php:49
+msgid "No pages were found for this ID"
+msgstr ""
+
+#: Controller/PagesController.php:80;116;143
+msgid "Invalid page"
+msgstr "Ungültiger Typ"
+
+#: Controller/PagesController.php:96;120
+msgid "The page has been saved."
+msgstr "Block wurde gespeichert"
+
+#: Controller/PagesController.php:99;123
+msgid "The page could not be saved. Please, try again."
+msgstr "Der Link konnte nicht gespeichert werden. Bitte nochmal versuchen."
+
+#: Controller/PagesController.php:147
+msgid "The page has been deleted."
+msgstr "Kommentar gespeichert"
+
+#: Controller/PagesController.php:149
+msgid "The page could not be deleted. Please, try again."
+msgstr "Der Begriff konnte nicht gelöscht werden. Bitte nochmal versuchen"
+
+#: Controller/PostsController.php:83;118;143
+msgid "Invalid post"
+msgstr "Kommentar posten"
+
+#: Controller/PostsController.php:99;122
+msgid "The post has been saved."
+msgstr "Block wurde gespeichert"
+
+#: Controller/PostsController.php:102;125
+msgid "The post could not be saved. Please, try again."
+msgstr "Aktion konnte nicht gespeichert werden. Bitte nochmal versuchen."
+
+#: Controller/PostsController.php:147
+msgid "The post has been deleted."
+msgstr "Kommentar gespeichert"
+
+#: Controller/PostsController.php:149
+msgid "The post could not be deleted. Please, try again."
+msgstr "Der Begriff konnte nicht gelöscht werden. Bitte nochmal versuchen"
+
+#: Controller/PropertiesController.php:64;168;198
+msgid "Invalid property"
+msgstr "Ungültiger Typ"
+
+#: Controller/PropertiesController.php:112;145;172
+msgid "The property has been saved."
+msgstr "Typ wurde gespeichert"
+
+#: Controller/PropertiesController.php:115;148;175
+msgid "The property could not be saved. Please, try again."
+msgstr ""
+"Der Kommentar konnte nicht gespeichert werden. Bitte versuchen Sie es "
+"nochmal."
+
+#: Controller/PropertiesController.php:202
+msgid "The property has been deleted."
+msgstr "Typ wurde gespeichert"
+
+#: Controller/PropertiesController.php:204
+msgid "The property could not be deleted. Please, try again."
+msgstr "Der Begriff konnte nicht gelöscht werden. Bitte nochmal versuchen"
+
+#: Controller/UsersController.php:23;224
+msgid "The user has been added"
+msgstr "Benutzer wurde gespeichert"
+
+#: Controller/UsersController.php:26
+msgid "This login is already used. Please, Try another."
+msgstr "%s konnte nicht gespeichert werden. Bitte nochmal versuchen."
+
+#: Controller/UsersController.php:49
+msgid "Your information is been modified"
+msgstr "Die Nachricht wurde übertragen..."
+
+#: Controller/UsersController.php:82
+msgid "You are connected."
+msgstr "Sie sind hier:"
+
+#: Controller/UsersController.php:85
+msgid "Incorrect password."
+msgstr "Passwort vergessen?"
+
+#: Controller/UsersController.php:91
+msgid "You are disconnected"
+msgstr "Sie sind hier:"
+
+#: Controller/UsersController.php:122
+msgid ""
+"Thank you you are registered mail sent to you to confirm your compte."
+"Veuillez check your spam in case."
+msgstr ""
+
+#: Controller/UsersController.php:125
+msgid "Thank you to correct your mistakes"
+msgstr ""
+
+#: Controller/UsersController.php:138
+msgid "This email address is not associated with any account"
+msgstr ""
+
+#: Controller/UsersController.php:152
+msgid ""
+"An email was sent to you with instructions to regenerate your password! "
+"Please check your span !!"
+msgstr ""
+"Eine E-Mail mit Anweisungen, um Ihr Passwort zurückzusetzen, wurde geschickt."
+
+#: Controller/UsersController.php:164
+msgid "This link does not look good"
+msgstr ""
+
+#: Controller/UsersController.php:177
+msgid "Your password has been changed"
+msgstr "Passwort erfolgreich zurückgesetzt."
+
+#: Controller/UsersController.php:189
+msgid "This change link is not good"
+msgstr ""
+
+#: Controller/UsersController.php:192
+msgid "Your account has been validated"
+msgstr "Ihr Kommentar wurde erfolgreich hinzugefügt"
+
+#: Controller/UsersController.php:219
+msgid "Passwords do not match"
+msgstr "Passwörter stimmen nicht überein. Bitte nochmal versuchen."
+
+#: Controller/UsersController.php:242
+msgid "the user has been deleted"
+msgstr "Benutzer wurde gespeichert"
+
+#: Plugin/BoostCake/Controller/BoostCakeController.php:18
+msgid "Debug setting does not allow access to this url."
+msgstr ""
+
+#: Plugin/BoostCake/Controller/BoostCakeController.php:27
+#: Plugin/BoostCake/View/Elements/bootstrap2/alerts.ctp:6
+msgid "Alert notice message testing..."
+msgstr ""
+
+#: Plugin/BoostCake/Controller/BoostCakeController.php:30;41
+#: Plugin/BoostCake/View/Elements/bootstrap2/alerts.ctp:10
+#: Plugin/BoostCake/View/Elements/bootstrap3/alerts.ctp:6
+msgid "Alert success message testing..."
+msgstr ""
+
+#: Plugin/BoostCake/Controller/BoostCakeController.php:34
+#: Plugin/BoostCake/View/Elements/bootstrap2/alerts.ctp:15
+msgid "Alert error message testing..."
+msgstr ""
+
+#: Plugin/BoostCake/Controller/BoostCakeController.php:45
+#: Plugin/BoostCake/View/Elements/bootstrap3/alerts.ctp:11
+msgid "Alert info message testing..."
+msgstr ""
+
+#: Plugin/BoostCake/Controller/BoostCakeController.php:49
+#: Plugin/BoostCake/View/Elements/bootstrap3/alerts.ctp:16
+msgid "Alert warning message testing..."
+msgstr ""
+
+#: Plugin/BoostCake/Controller/BoostCakeController.php:53
+#: Plugin/BoostCake/View/Elements/bootstrap3/alerts.ctp:21
+msgid "Alert danger message testing..."
+msgstr ""
+
+#: View/Calendars/calendar.ctp:6 View/Dashboard/dashboard.ctp:112
+msgid "Calendar"
+msgstr ""
+
+#: View/Calendars/calendar.ctp:7
+msgid " Calendar "
+msgstr ""
+
+#: View/Carrousels/add.ctp:4
+msgid "Add Carrousel"
+msgstr ""
+
+#: View/Carrousels/add.ctp:14 View/Carrousels/edit.ctp:15
+#: View/Contacts/index.ctp:71 View/Links/add.ctp:20
+#: View/Offerings/index.ctp:145 View/Pages/add2.ctp:14 View/Pages/edit2.ctp:15
+#: View/Properties/add.ctp:52 View/Properties/edit.ctp:54
+#: View/Users/add.ctp:51 View/Users/edit.ctp:21 View/Users/forgot.ctp:10
+#: View/Users/signup.ctp:20
+msgid "Submit"
+msgstr "Senden"
+
+#: View/Carrousels/add.ctp:17 View/Carrousels/edit.ctp:18
+#: View/Carrousels/index.ctp:14;52 View/Carrousels/view.ctp:47
+#: View/Links/view.ctp:29 View/Pages/add2.ctp:17 View/Pages/edit2.ctp:18
+#: View/Pages/index-origin.ctp:14;54 View/Pages/view.ctp:47
+#: View/Posts/index.ctp:14;52
+msgid "Actions"
+msgstr "Aktionen"
+
+#: View/Carrousels/add.ctp:20 View/Carrousels/edit.ctp:22
+#: View/Carrousels/view.ctp:51
+msgid "List Carrousels"
+msgstr ""
+
+#: View/Carrousels/edit.ctp:4 View/Carrousels/view.ctp:49
+msgid "Edit Carrousel"
+msgstr "Kommentar bearbeiten"
+
+#: View/Carrousels/edit.ctp:21 View/Carrousels/index.ctp:31
+#: View/Pages/edit2.ctp:21 View/Pages/index-origin.ctp:33
+#: View/Posts/index.ctp:31
+msgid "Delete"
+msgstr "Löschen"
+
+#: View/Carrousels/edit.ctp:21 View/Carrousels/index.ctp:31
+#: View/Carrousels/view.ctp:50 View/Links/view.ctp:32 View/Pages/edit2.ctp:21
+#: View/Pages/index-origin.ctp:33 View/Pages/view.ctp:50
+#: View/Posts/index.ctp:31
+msgid "Are you sure you want to delete # %s?"
+msgstr "Sind Sie sicher, dass # %s gelöscht werden soll?"
+
+#: View/Carrousels/index.ctp:2
+msgid "Carrousels"
+msgstr ""
+
+#: View/Carrousels/index.ctp:29 View/Pages/index-origin.ctp:31
+#: View/Posts/index.ctp:29
+msgid "View"
+msgstr ""
+
+#: View/Carrousels/index.ctp:30 View/Pages/index-origin.ctp:32
+#: View/Posts/index.ctp:30
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: View/Carrousels/index.ctp:40 View/Pages/index-origin.ctp:42
+#: View/Posts/index.ctp:40
+msgid ""
+"Page {:page} of {:pages}, showing {:current} records out of {:count} total, "
+"starting on record {:start}, ending on {:end}"
+msgstr ""
+
+#: View/Carrousels/index.ctp:45 View/Pages/index-origin.ctp:47
+#: View/Posts/index.ctp:45
+msgid "previous"
+msgstr "Zurück"
+
+#: View/Carrousels/index.ctp:47 View/Pages/index-origin.ctp:49
+#: View/Posts/index.ctp:47
+msgid "next"
+msgstr "Weiter"
+
+#: View/Carrousels/index.ctp:54 View/Carrousels/view.ctp:52
+msgid "New Carrousel"
+msgstr ""
+
+#: View/Carrousels/view.ctp:2
+msgid "Carrousel"
+msgstr ""
+
+#: View/Carrousels/view.ctp:4 View/Links/view.ctp:5 View/Pages/view.ctp:4
+#: View/Properties/search.ctp:75 View/Properties/view.ctp:75
+#: View/Properties/viewOK.ctp:43
+msgid "Id"
+msgstr "ID"
+
+#: View/Carrousels/view.ctp:9 View/Elements/Posts/form.ctp:12
+#: View/Links/add.ctp:14 View/Links/view.ctp:10 View/Offerings/index.ctp:22
+#: View/Pages/add.ctp:15 View/Pages/edit.ctp:16 View/Pages/view.ctp:9
+#: View/Posts/add.ctp:15 View/Users/account.ctp:23 View/Users/add.ctp:14
+msgid "Name"
+msgstr "Name"
+
+#: View/Carrousels/view.ctp:14 View/Pages/view.ctp:14
+msgid "Slug"
+msgstr "Slug"
+
+#: View/Carrousels/view.ctp:19 View/Links/view.ctp:20 View/Pages/view.ctp:29
+#: View/Properties/search.ctp:100 View/Properties/view.ctp:100
+#: View/Properties/viewOK.ctp:68
+msgid "Created"
+msgstr ""
+
+#: View/Carrousels/view.ctp:24
+msgid "Image"
+msgstr ""
+
+#: View/Carrousels/view.ctp:29 View/Elements/Posts/form.ctp:21
+#: View/Pages/add.ctp:30 View/Pages/edit.ctp:25 View/Pages/view.ctp:19
+#: View/Posts/add.ctp:24 View/Properties/add.ctp:46
+msgid "Content"
+msgstr "Inhalt"
+
+#: View/Carrousels/view.ctp:34
+msgid "Button"
+msgstr ""
+
+#: View/Carrousels/view.ctp:39
+msgid "Title"
+msgstr "Titel"
+
+#: View/Carrousels/view.ctp:50
+msgid "Delete Carrousel"
+msgstr ""
+
+#: View/Contacts/index.ctp:1;10 View/Users/contact.ctp:12
+msgid "Contact Form"
+msgstr "Kontaktinfo"
+
+#: View/Contacts/index.ctp:6 View/Offerings/index.ctp:11
+msgid "Feel free to contact us for any questions or comments you have:"
+msgstr ""
+
+#: View/Contacts/index.ctp:13 View/Offerings/index.ctp:17
+msgid "Required field:"
+msgstr ""
+
+#: View/Contacts/index.ctp:17;22
+msgid "Your Name :"
+msgstr "Ihr Name"
+
+#: View/Contacts/index.ctp:26;31
+msgid "Your Email :"
+msgstr "Ihre Email"
+
+#: View/Contacts/index.ctp:37;42
+msgid "your Phone :"
+msgstr ""
+
+#: View/Contacts/index.ctp:46;51 View/Offerings/index.ctp:38;42
+msgid "Your Mobile"
+msgstr "Ihre Email"
+
+#: View/Contacts/index.ctp:55
+msgid "Subject :&nbsp;<i class=\"fa fa-asterisk\"></i>"
+msgstr ""
+
+#: View/Contacts/index.ctp:56
+msgid "Subject of your message:"
+msgstr ""
+
+#: View/Contacts/index.ctp:58
+msgid "Your Message "
+msgstr "Nachricht"
+
+#: View/Contacts/index.ctp:63 View/Offerings/index.ctp:139
+msgid "Enter Your message ..."
+msgstr ""
+
+#: View/Contacts/index.ctp:72 View/Links/add.ctp:21
+#: View/Offerings/index.ctp:146 View/Properties/edit.ctp:57
+#: View/Users/account.ctp:36 View/Users/add.ctp:52 View/Users/login.ctp:33
+#: View/Users/signup.ctp:21
+msgid "Reset"
+msgstr "Zurücksetzen"
+
+#: View/Contacts/index.ctp:83
+msgid "Adress"
+msgstr "IP-Adresse: %s"
+
+#: View/Dashboard/dashboard.ctp:3
+msgid "Dashboard"
+msgstr "Kontrollbereich"
+
+#: View/Dashboard/dashboard.ctp:4
+msgid " Dashboard "
+msgstr "Kontrollbereich"
+
+#: View/Dashboard/dashboard.ctp:12 View/Layouts/admin.ctp:341
+#: View/Users/account.ctp:3 View/Users/add.ctp:2 View/Users/edit.ctp:2
+msgid "Users"
+msgstr "Benutzer"
+
+#: View/Dashboard/dashboard.ctp:18
+msgid "View users"
+msgstr "Begriffe anzeigen"
+
+#: View/Dashboard/dashboard.ctp:28 View/Layouts/admin.ctp:353
+#: View/Properties/add.ctp:2 View/Properties/adminindex.ctp:1;2
+#: View/Properties/edit.ctp:2 View/Properties/index.ctp:1
+msgid "Properties"
+msgstr ""
+
+#: View/Dashboard/dashboard.ctp:35
+msgid "View Properties"
+msgstr "Begriffe anzeigen"
+
+#: View/Dashboard/dashboard.ctp:45;52 View/Links/view.ctp:33
+msgid "List Links"
+msgstr "Link bearbeiten"
+
+#: View/Dashboard/dashboard.ctp:62;69 View/Posts/add.ctp:2
+#: View/Posts/index.ctp:2
+msgid "Posts"
+msgstr "Gepostet"
+
+#: View/Dashboard/dashboard.ctp:82
+msgid "Quick Email"
+msgstr "Email"
+
+#: View/Dashboard/dashboard.ctp:91
+msgid "Email to:"
+msgstr "Email"
+
+#: View/Dashboard/dashboard.ctp:94
+msgid "Subject"
+msgstr "Betreff"
+
+#: View/Dashboard/dashboard.ctp:102
+msgid "Send"
+msgstr "Senden"
+
+#: View/Dashboard/dashboard.ctp:119
+msgid "Add new event"
+msgstr "Neuen Kommentar hinzufügen"
+
+#: View/Dashboard/dashboard.ctp:120
+msgid "Clear events"
+msgstr ""
+
+#: View/Dashboard/dashboard.ctp:122
+msgid "View calendar"
+msgstr "Links ansehen"
+
+#: View/Elements/aside-1.ctp:10;74 View/Properties/residential_search.ctp:51
+msgid "Search"
+msgstr "Suchen"
+
+#: View/Elements/aside-1.ctp:28
+msgid "Residential"
+msgstr ""
+
+#: View/Elements/aside-1.ctp:29;39;57
+msgid "click here"
+msgstr ""
+
+#: View/Elements/aside-1.ctp:35
+msgid "land"
+msgstr ""
+
+#: View/Elements/aside-1.ctp:38 View/Offerings/index.ctp:76
+msgid "Land"
+msgstr ""
+
+#: View/Elements/aside-1.ctp:48
+msgid "Business Premises"
+msgstr ""
+
+#: View/Elements/aside-1.ctp:56
+msgid "Businesses"
+msgstr ""
+
+#: View/Elements/aside-1.ctp:70
+msgid "Property ID"
+msgstr ""
+
+#: View/Elements/loan.ctp:2;5
+msgid "Loan"
+msgstr ""
+
+#: View/Elements/loan.ctp:10
+msgid "Loan Information:"
+msgstr ""
+
+#: View/Elements/loan.ctp:11
+msgid "loan € :"
+msgstr ""
+
+#: View/Elements/loan.ctp:13
+msgid "Period in Years:"
+msgstr ""
+
+#: View/Elements/loan.ctp:16
+msgid "Payment Information:"
+msgstr ""
+
+#: View/Elements/loan.ctp:17
+msgid "Monthly Payment :"
+msgstr ""
+
+#: View/Elements/loan.ctp:18
+msgid "Total Interest Paid :"
+msgstr ""
+
+#: View/Elements/loan.ctp:23
+msgid "Calculate"
+msgstr ""
+
+#: View/Elements/navbar.ctp:20
+msgid "Home"
+msgstr ""
+
+#: View/Elements/navbar.ctp:28
+msgid "Services"
+msgstr "Dienste"
+
+#: View/Elements/navbar.ctp:31
+msgid "Informations"
+msgstr ""
+
+#: View/Elements/navbar.ctp:34 View/Layouts/admin.ctp:365 View/Links/add.ctp:3
+#: View/Links/adminindex.ctp:1;6 View/Links/edit.ctp:2
+msgid "Links"
+msgstr "Links: %s"
+
+#: View/Elements/navbar.ctp:37
+msgid "Offerings"
+msgstr ""
+
+#: View/Elements/navbar.ctp:40
+msgid "Contacts"
+msgstr "Kontakte"
+
+#: View/Elements/pagination-counter.ctp:2
+msgid ""
+"Page {:page} of {:pages}, showing {:current} records out of {:count} total,\n"
+"\t\t\t\tstarting on record {:start}, ending on {:end}"
+msgstr ""
+"Seite %page% von %pages%, zeigt %current% Eintrag von ingesamt  %count%, von "
+"Eintrag %start% bis %end%"
+
+#: View/Elements/Posts/form.ctp:5 View/Elements/Posts/form2.ctp:9
+#: View/Posts/add.ctp:8
+msgid "Add Post"
+msgstr "Kontakt hinzufügen"
+
+#: View/Elements/Posts/form.ctp:28 View/Posts/add.ctp:31
+msgid "<i class=\"glyphicon glyphicon-share\"></i> List Posts"
+msgstr ""
+
+#: View/Elements/Posts/form.ctp:30 View/Pages/add.ctp:39
+#: View/Pages/edit.ctp:34 View/Posts/add.ctp:33
+msgid "<i class=\"glyphicon glyphicon-ok\"></i> Submit"
+msgstr ""
+
+#: View/Elements/Posts/form.ctp:32 View/Pages/add.ctp:41
+#: View/Pages/edit.ctp:36 View/Posts/add.ctp:35
+msgid "<i class=\"glyphicon glyphicon-remove\"></i> Reset"
+msgstr ""
+
+#: View/Layouts/admin.ctp:27
+msgid "See the website"
+msgstr "Webseite besuchen"
+
+#: View/Layouts/admin.ctp:255
+msgid "Member since"
+msgstr ""
+
+#: View/Layouts/admin.ctp:274
+msgid "<i class=\"fa fa-fw fa-user\"></i> Profile"
+msgstr ""
+
+#: View/Layouts/admin.ctp:278
+msgid "<i class='fa  fa-power-off'></i> Sign out"
+msgstr ""
+
+#: View/Layouts/admin.ctp:303
+msgid "Hello"
+msgstr "Hallo %s"
+
+#: View/Layouts/admin.ctp:311 View/Pages/view.ctp:34
+msgid "Online"
+msgstr ""
+
+#: View/Layouts/admin.ctp:317
+msgid "Search..."
+msgstr "Suchen"
+
+#: View/Layouts/admin.ctp:327
+msgid "<i class='fa fa-fw fa-dashboard'></i> Dashboard"
+msgstr ""
+
+#: View/Layouts/admin.ctp:331
+msgid ""
+"<i class=\"fa fa-calendar\"></i> <span>Calendar</span><small class=\"badge "
+"pull-right bg-red\">13</small>"
+msgstr ""
+
+#: View/Layouts/admin.ctp:346
+msgid "<i class='fa fa-fw fa-users'></i> Users"
+msgstr ""
+
+#: View/Layouts/admin.ctp:358
+msgid "<i class=\"fa fa-fw fa-building\"></i> Properties"
+msgstr ""
+
+#: View/Layouts/admin.ctp:370
+msgid "<i class=\"fa fa-fw fa-link\"></i>  Links"
+msgstr ""
+
+#: View/Layouts/admin.ctp:374
+msgid "<i class=\"fa fa-fw fa-plus\"></i>  Add"
+msgstr ""
+
+#: View/Layouts/admin.ctp:381
+msgid "Post"
+msgstr "Zurück zum ursprünglichen Post"
+
+#: View/Layouts/admin.ctp:386
+msgid "<i class=\"fa fa-fw fa-picture-o\"></i>   Post"
+msgstr ""
+
+#: View/Layouts/admin.ctp:393 View/Pages/view.ctp:2
+msgid "Page"
+msgstr "In die Startseite befördern"
+
+#: View/Layouts/admin.ctp:398
+msgid "<i class=\"fa fa-fw fa-picture-o\"></i>   Page"
+msgstr ""
+
+#: View/Layouts/admin.ctp:459
+msgid "<i class='fa fa-fw fa fa-dashboard'></i> Home "
+msgstr ""
+
+#: View/Layouts/default.ctp:80
+msgid "top"
+msgstr ""
+
+#: View/Layouts/default.ctp:88
+msgid "Imprint"
+msgstr ""
+
+#: View/Layouts/default.ctp:90
+msgid "Contact Us"
+msgstr "Kontakte"
+
+#: View/Layouts/default.ctp:91
+msgid "Subscribe to the newsletter"
+msgstr ""
+
+#: View/Layouts/default.ctp:92
+msgid "Site map"
+msgstr "Seite"
+
+#: View/Layouts/default.ctp:95
+msgid ""
+"<b>Schedule agency : </b> </br>The real estate agency Th. FOUKIS works:\n"
+"    \t\t</br>Monday to Saturday from 8 h 30 am to 9 pm  and on weekends from "
+"9 am to 7.3O pm."
+msgstr ""
+
+#: View/Links/add.ctp:1;4;8
+msgid "Add Link"
+msgstr "Link hinzufügen"
+
+#: View/Links/add.ctp:18 View/Links/edit.ctp:22
+msgid "<i class=\"glyphicon glyphicon-share\"></i> List links"
+msgstr ""
+
+#: View/Links/adminindex.ctp:2
+msgid " Links"
+msgstr "Links: %s"
+
+#: View/Links/adminindex.ctp:16
+msgid "<i class=\"glyphicon glyphicon-import\"></i> New Link"
+msgstr ""
+
+#: View/Links/adminindex.ctp:30 View/Pages/adminindex.ctp:29
+#: View/Pages2/adminindex.ctp:29 View/Posts/adminindex.ctp:29
+#: View/Properties/adminindex.ctp:53 View/Users/index.ctp:23
+msgid "<span class=\"label label-default\">Disabled</span>"
+msgstr ""
+
+#: View/Links/adminindex.ctp:31 View/Pages/adminindex.ctp:30
+#: View/Pages2/adminindex.ctp:30 View/Posts/adminindex.ctp:30
+#: View/Properties/adminindex.ctp:54 View/Users/index.ctp:24
+msgid "<span class=\"label label-success\">Enabled</span>"
+msgstr ""
+
+#: View/Links/adminindex.ctp:34 View/Pages/adminindex.ctp:33
+#: View/Pages2/adminindex.ctp:33 View/Posts/adminindex.ctp:33
+msgid "<i class=\"glyphicon glyphicon-pencil\"></i>&nbsp;Edit"
+msgstr ""
+
+#: View/Links/adminindex.ctp:38 View/Pages/adminindex.ctp:37
+#: View/Pages2/adminindex.ctp:37 View/Posts/adminindex.ctp:37
+msgid "<i class=\"glyphicon glyphicon-trash\"></i>&nbsp;Delete"
+msgstr ""
+
+#: View/Links/adminindex.ctp:39 View/Pages/adminindex.ctp:38
+#: View/Pages2/adminindex.ctp:38 View/Posts/adminindex.ctp:38
+msgid "Are you sure you want to delete  %s?"
+msgstr "Sind Sie sicher, dass # %s gelöscht werden soll?"
+
+#: View/Links/edit.ctp:1;3;8;13 View/Links/view.ctp:31
+msgid "Edit Link"
+msgstr "Link bearbeiten"
+
+#: View/Links/edit.ctp:25
+msgid "submit"
+msgstr "Senden"
+
+#: View/Links/edit.ctp:28 View/Properties/add.ctp:55 View/Users/edit.ctp:22
+msgid "reset"
+msgstr "Zurücksetzen"
+
+#: View/Links/index.ctp:2
+msgid "Useful Links"
+msgstr ""
+
+#: View/Links/view.ctp:3
+msgid "Link"
+msgstr "Link"
+
+#: View/Links/view.ctp:15
+msgid "Url"
+msgstr "URL"
+
+#: View/Links/view.ctp:32
+msgid "Delete Link"
+msgstr "Einstellung löschen"
+
+#: View/Links/view.ctp:34
+msgid "New Link"
+msgstr "Link"
+
+#: View/Offerings/index.ctp:2
+msgid "Offer your property"
+msgstr ""
+
+#: View/Offerings/index.ctp:3
+msgid " Offer your property"
+msgstr ""
+
+#: View/Offerings/index.ctp:26
+msgid "Your Name"
+msgstr "Ihr Name"
+
+#: View/Offerings/index.ctp:30
+msgid "Phone"
+msgstr ""
+
+#: View/Offerings/index.ctp:34
+msgid "Your Phone"
+msgstr "Ihre Email"
+
+#: View/Offerings/index.ctp:50
+msgid "Your Fax"
+msgstr "Ihr Name"
+
+#: View/Offerings/index.ctp:58 View/Users/forgot.ctp:8
+msgid "Your Mail"
+msgstr "Ihr Name"
+
+#: View/Offerings/index.ctp:62
+msgid "Property Type:"
+msgstr ""
+
+#: View/Offerings/index.ctp:68
+msgid "Apartment"
+msgstr "Anlage"
+
+#: View/Offerings/index.ctp:69
+msgid "Duplex / Triplex Apartmen"
+msgstr ""
+
+#: View/Offerings/index.ctp:70
+msgid "Single Floor Apartmen"
+msgstr ""
+
+#: View/Offerings/index.ctp:71
+msgid "Studio"
+msgstr ""
+
+#: View/Offerings/index.ctp:72
+msgid "Studio Apartment"
+msgstr ""
+
+#: View/Offerings/index.ctp:73
+msgid "Penthouse"
+msgstr ""
+
+#: View/Offerings/index.ctp:74
+msgid "House"
+msgstr ""
+
+#: View/Offerings/index.ctp:75
+msgid "Villa"
+msgstr ""
+
+#: View/Offerings/index.ctp:77
+msgid "Agricultural Land Plot"
+msgstr ""
+
+#: View/Offerings/index.ctp:78
+msgid "Island"
+msgstr ""
+
+#: View/Offerings/index.ctp:79
+msgid "Shop"
+msgstr ""
+
+#: View/Offerings/index.ctp:80
+msgid "Office"
+msgstr ""
+
+#: View/Offerings/index.ctp:81
+msgid "Store Room"
+msgstr ""
+
+#: View/Offerings/index.ctp:82
+msgid "Building"
+msgstr ""
+
+#: View/Offerings/index.ctp:83
+msgid "Hotel"
+msgstr ""
+
+#: View/Offerings/index.ctp:84
+msgid "Camping"
+msgstr ""
+
+#: View/Offerings/index.ctp:85
+msgid "Bungalow"
+msgstr ""
+
+#: View/Offerings/index.ctp:86
+msgid "Business"
+msgstr ""
+
+#: View/Offerings/index.ctp:87
+msgid "Goodwill"
+msgstr ""
+
+#: View/Offerings/index.ctp:88
+msgid "(choose)"
+msgstr ""
+
+#: View/Offerings/index.ctp:93
+msgid "For Rent"
+msgstr ""
+
+#: View/Offerings/index.ctp:93 View/Properties/residential_search.ctp:12
+msgid "For Sale"
+msgstr ""
+
+#: View/Offerings/index.ctp:100
+msgid "Size:"
+msgstr ""
+
+#: View/Offerings/index.ctp:109;113 View/Properties/add.ctp:27
+#: View/Properties/adminindex.ctp:18 View/Properties/edit.ctp:24
+#: View/Properties/search.ctp:105 View/Properties/view.ctp:105
+#: View/Properties/viewOK.ctp:73
+msgid "Year"
+msgstr ""
+
+#: View/Offerings/index.ctp:117
+msgid "Price "
+msgstr ""
+
+#: View/Offerings/index.ctp:121
+msgid "Price: "
+msgstr ""
+
+#: View/Offerings/index.ctp:125
+msgid "Address :"
+msgstr "Bitte geben Sie eine gültige Emailadresse ein."
+
+#: View/Offerings/index.ctp:129
+msgid "Your Address :"
+msgstr "IP-Adresse: %s"
+
+#: View/Offerings/index.ctp:135
+msgid " Message"
+msgstr "Nachricht"
+
+#: View/Pages/add.ctp:2 View/Pages/index-origin.ctp:2
+msgid "Pages"
+msgstr "Nachrichten"
+
+#: View/Pages/add.ctp:8 View/Pages/add2.ctp:4
+msgid "Add Page"
+msgstr "Sprache hinzufügen"
+
+#: View/Pages/add.ctp:26 View/Users/signup.ctp:11
+msgid "Username :"
+msgstr "Ungültiger Benutzername"
+
+#: View/Pages/add.ctp:33 View/Posts/add.ctp:27
+msgid "&nbsp; online"
+msgstr ""
+
+#: View/Pages/add.ctp:37 View/Pages/edit.ctp:32
+msgid "<i class=\"glyphicon glyphicon-share\"></i> List Pages"
+msgstr ""
+
+#: View/Pages/add2.ctp:20 View/Pages/edit2.ctp:22 View/Pages/view.ctp:51
+msgid "List Pages"
+msgstr "Einstellungen auflisten"
+
+#: View/Pages/add2.ctp:21 View/Pages/edit2.ctp:23
+#: View/Pages/index-origin.ctp:57 View/Pages/view.ctp:53
+#: View/Users/index.ctp:1;2
+msgid "List Users"
+msgstr "Benutzer"
+
+#: View/Pages/add2.ctp:22 View/Pages/edit2.ctp:24
+#: View/Pages/index-origin.ctp:58 View/Pages/view.ctp:54
+msgid "New User"
+msgstr "Neuer Begriff"
+
+#: View/Pages/adminindex.ctp:1 View/Pages2/adminindex.ctp:1
+msgid " Pages"
+msgstr ""
+
+#: View/Pages/adminindex.ctp:5 View/Pages2/adminindex.ctp:5
+msgid "pages"
+msgstr "Nachrichten"
+
+#: View/Pages/adminindex.ctp:15 View/Pages2/adminindex.ctp:15
+msgid "<i class=\"glyphicon glyphicon-import\"></i> New Page"
+msgstr ""
+
+#: View/Pages/edit.ctp:1 View/Pages/edit2.ctp:4 View/Pages/view.ctp:49
+msgid "Edit Page"
+msgstr "Nachricht bearbeiten"
+
+#: View/Pages/edit.ctp:2
+msgid " pages"
+msgstr ""
+
+#: View/Pages/edit.ctp:3
+msgid "edit page"
+msgstr "Nachricht bearbeiten"
+
+#: View/Pages/edit.ctp:8
+msgid "edit Page"
+msgstr "Nachricht bearbeiten"
+
+#: View/Pages/index-origin.ctp:56 View/Pages/view.ctp:52
+msgid "New Page"
+msgstr "Neue Sprache"
+
+#: View/Pages/index.ctp:4 View/Pages2/index.ctp:4
+msgid ""
+"\n"
+"\t\t\t\t\t\t<h2>The leading real estate company in Athens</h2>\n"
+"\t\t\t\t\t\t<p>Our real estate company was successfully established in 1994. "
+"We undertake any type of real estate whether\n"
+"\t\t\t\t\t\t\tit be from sales to rent, for buildings, hotels, land etc all "
+"over Greece.\n"
+"\t\t\t\t\t\t </p>\n"
+"\t\t\t\t\t<p>We are situated in the heart of Athens in Kaniggos 32 and "
+"Solomou corner. Our company employs\n"
+"\t\t\t\t\t 40 permanent staff, most of them being coworkers. The heads are "
+"Mr Theofanis Foukis and Mrs Rezin-Zaklin-Mari Wagner.\n"
+"\t\t\t\t\t</p>\n"
+"\t\t\t\t\t<p>Up to the present day our company has undertaken over 15.000 "
+"properties all over Greece with\n"
+"\t\t\t\t\t a high standard of credibility, professionalism. Our extensive "
+"experience guarantees the irreproachable\n"
+"\t\t\t\t\t co-operation and the great satisfaction offering our clients "
+"legal, notarial and technical support.\n"
+"\t\t\t\t\t</p>\n"
+"\t\t\t\t\t"
+msgstr ""
+
+#: View/Pages/index.ctp:26 View/Pages2/index.ctp:26
+msgid "Property <span class=\"text-muted\">of the week</span>"
+msgstr ""
+
+#: View/Pages/view.ctp:24 View/Properties/search.ctp:89
+#: View/Properties/view.ctp:89 View/Properties/viewOK.ctp:57
+msgid "Type"
+msgstr "Typ"
+
+#: View/Pages/view.ctp:39
+msgid "User"
+msgstr "Benutzer"
+
+#: View/Pages/view.ctp:50
+msgid "Delete Page"
+msgstr "Löschen"
+
+#: View/Posts/adminindex.ctp:1
+msgid " Posts"
+msgstr "Gepostet"
+
+#: View/Posts/adminindex.ctp:5
+msgid "posts"
+msgstr ""
+
+#: View/Posts/adminindex.ctp:15
+msgid "<i class=\"glyphicon glyphicon-import\"></i> New Post"
+msgstr ""
+
+#: View/Posts/edit.ctp:1
+msgid "Edit Post"
+msgstr "Aktionen bearbeiten"
+
+#: View/Posts/edit.ctp:2
+msgid " posts"
+msgstr ""
+
+#: View/Posts/edit.ctp:3
+msgid "Add post"
+msgstr "Kontakt hinzufügen"
+
+#: View/Posts/index.ctp:54
+msgid "New Post"
+msgstr "Kommentar posten"
+
+#: View/Properties/add.ctp:1;8
+msgid "Add Property"
+msgstr "Typ hinzufügen"
+
+#: View/Properties/add.ctp:3
+msgid " Add Property"
+msgstr ""
+
+#: View/Properties/add.ctp:19;20;21;28;35
+msgid "choose"
+msgstr ""
+
+#: View/Properties/add.ctp:48
+msgid "online"
+msgstr ""
+
+#: View/Properties/add.ctp:48 View/Properties/edit.ctp:50
+msgid "&nbsp;&nbsp;Online ?"
+msgstr ""
+
+#: View/Properties/adminindex.ctp:11
+msgid "quanties"
+msgstr ""
+
+#: View/Properties/adminindex.ctp:23
+msgid "Modified"
+msgstr ""
+
+#: View/Properties/adminindex.ctp:24
+msgid "<i class=\"glyphicon glyphicon-import\"></i> add "
+msgstr ""
+
+#: View/Properties/adminindex.ctp:60
+msgid "<i class='glyphicon glyphicon-pencil'></i>&nbsp;Edit"
+msgstr ""
+
+#: View/Properties/adminindex.ctp:64
+msgid "<i class='glyphicon glyphicon-trash'></i>&nbsp;Delete"
+msgstr ""
+
+#: View/Properties/adminindex.ctp:66
+msgid "Are you sure you want to delete "
+msgstr "Sind Sie sicher, dass # %s gelöscht werden soll?"
+
+#: View/Properties/edit.ctp:1;9
+msgid "Edit Property"
+msgstr "Kommentar bearbeiten"
+
+#: View/Properties/edit.ctp:3
+msgid "Edit property"
+msgstr "Kommentar bearbeiten"
+
+#: View/Properties/index.ctp:16
+msgid "Beds"
+msgstr ""
+
+#: View/Properties/index.ctp:17
+msgid "Year:"
+msgstr ""
+
+#: View/Properties/index.ctp:18
+msgid "House Size:"
+msgstr ""
+
+#: View/Properties/index.ctp:19
+msgid "Level:"
+msgstr ""
+
+#: View/Properties/index.ctp:28
+msgid "Read more"
+msgstr "Nur lesen"
+
+#: View/Properties/residential_search.ctp:5
+msgid "I am searching Residential Property:"
+msgstr ""
+
+#: View/Properties/residential_search.ctp:12
+msgid "To Let"
+msgstr ""
+
+#: View/Properties/residential_search.ctp:12
+msgid "Giving in exchange for"
+msgstr ""
+
+#: View/Properties/search.ctp:10 View/Properties/view.ctp:10
+msgid "Load Image"
+msgstr ""
+
+#: View/Properties/search.ctp:19 View/Properties/view.ctp:19
+msgid "back"
+msgstr "Zurück zu"
+
+#: View/Properties/search.ctp:21 View/Properties/view.ctp:21
+msgid "mail"
+msgstr "Email"
+
+#: View/Properties/search.ctp:23 View/Properties/view.ctp:23
+msgid "print"
+msgstr ""
+
+#: View/Properties/search.ctp:60 View/Properties/view.ctp:60
+#: View/Properties/viewOK.ctp:30
+msgid "Property Description"
+msgstr "Beschreibung"
+
+#: View/Properties/search.ctp:67 View/Properties/view.ctp:67
+#: View/Properties/viewOK.ctp:35
+msgid "Property Feature"
+msgstr ""
+
+#: View/Properties/search.ctp:70 View/Properties/view.ctp:70
+msgid "Overview"
+msgstr "Dienste"
+
+#: View/Properties/search.ctp:80 View/Properties/view.ctp:80
+#: View/Properties/viewOK.ctp:48
+msgid "State"
+msgstr ""
+
+#: View/Properties/search.ctp:83 View/Properties/view.ctp:83
+#: View/Properties/viewOK.ctp:51
+msgid "Area"
+msgstr ""
+
+#: View/Properties/search.ctp:86 View/Properties/view.ctp:86
+#: View/Properties/viewOK.ctp:54
+msgid "Status"
+msgstr "Status"
+
+#: View/Properties/search.ctp:95 View/Properties/view.ctp:95
+#: View/Properties/viewOK.ctp:63
+msgid "Size"
+msgstr ""
+
+#: View/Properties/search.ctp:110 View/Properties/view.ctp:110
+#: View/Properties/viewOK.ctp:78
+msgid "Bedrooms"
+msgstr ""
+
+#: View/Properties/search.ctp:115 View/Properties/view.ctp:115
+#: View/Properties/viewOK.ctp:83
+msgid "Level"
+msgstr ""
+
+#: View/Properties/search.ctp:124 View/Properties/view.ctp:124
+#: View/Properties/viewOK.ctp:92
+msgid "Price"
+msgstr ""
+
+#: View/Properties/viewOK.ctp:38
+msgid "Details"
+msgstr "Details"
+
+#: View/Services/index.ctp:6
+msgid ""
+"<h3>Rénovations</h3>\n"
+"\n"
+"\t\t\t<p>Notre agence désirant étendre ses services à votre avantage, "
+"entreprend tous les travaux de rénovations de votre logement, qu'il s'agit "
+"d'un simple rafraîchissement de peinture jusqu'aux travaux les plus "
+"exigeants et composés que vous ayez, en comprenant:</p>\n"
+"\t\t\t<ul>\n"
+"\t\t\t\t<li>des interventions architecturales.</li>\n"
+"\t\t\t\t<li>des installations hydrauliques et électriques.</li>\n"
+"\t\t\t\t<li>des changements d'équipements dans les espaces fonctionnels.</"
+"li>\n"
+"\t\t\t\t<li>des remplacements ou rénovations de planchers ...etc.</li>\n"
+"\t\t\t</ul>\n"
+"\n"
+"\t\t\t<p>D’un petit studio jusqu'à l'hôtel.</p>\n"
+"\n"
+"\t\t\t<p>Tous les travaux ci-dessus sont exécutés par des équipes techniques "
+"de la société, en observant des prescriptions sévères de qualité. Les "
+"travaux se réalisent sous surveillance sur tous les stades. L'achèvement des "
+"travaux en date prévue fait partie également de ce comcepte.</p>\n"
+"\n"
+"\t\t\t<h3>Crédit</h3>\n"
+"\n"
+"\t\t\t<p>Notre agence peut également vous renseigner en ce qui concerne les "
+"crédits à condition d'être résident en union européenne et d'avoir les "
+"coordonnées nécessaires. Les acheteurs qui ne sont pas résidant de l'union "
+"européenne ou qui n'ont pu obtenir un crédit, doivent s'adresser uniquement "
+"aux pays ou ils sont résidants.</p>\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\t\t\t<h3>Topographes</h3>\n"
+"\n"
+"\t\t\t<p>Notre agence dispose de topographes spécialisés, d’ingénieurs qui "
+"entreprennent des travaux de tout genre, topographies, délivrances "
+"d’autorisations etc. Pour plus d’informations contacter notre bureau au "
+"tel : +30 210 3306333- +30 210 3306595 fax +30 210 3846846</p>\n"
+"\n"
+"\t\t\t"
+msgstr ""
+
+#: View/Users/account.ctp:1
+msgid "Account"
+msgstr "[%s] Bitte aktivieren Sie Ihren Benutzerkonto"
+
+#: View/Users/account.ctp:20 View/Users/add.ctp:26;27 View/Users/login.ctp:11
+msgid "Username"
+msgstr ""
+
+#: View/Users/account.ctp:24
+msgid "firstname"
+msgstr "Anfang"
+
+#: View/Users/account.ctp:32
+msgid "Select a file from your computer"
+msgstr ""
+
+#: View/Users/account.ctp:35
+msgid "Change"
+msgstr ""
+
+#: View/Users/add.ctp:1
+msgid "Add Username"
+msgstr "Ungültiger Benutzername"
+
+#: View/Users/add.ctp:3
+msgid " Add Username"
+msgstr "Ungültiger Benutzername"
+
+#: View/Users/add.ctp:8
+msgid "Add a Username"
+msgstr "Ungültiger Benutzername"
+
+#: View/Users/add.ctp:15
+msgid "Lastname"
+msgstr ""
+
+#: View/Users/add.ctp:20;21
+msgid "Firstname"
+msgstr ""
+
+#: View/Users/add.ctp:32;33 View/Users/login.ctp:19;23
+#: View/Users/password.ctp:6
+msgid "Password"
+msgstr "Passwort wurde zurückgesetzt."
+
+#: View/Users/add.ctp:49 View/Users/edit.ctp:19
+msgid "<i class=\"glyphicon glyphicon-share\"></i> List Users"
+msgstr ""
+
+#: View/Users/contact.ctp:2
+msgid "Contact"
+msgstr "Kontakt"
+
+#: View/Users/edit.ctp:1;3;8
+msgid "Edit User"
+msgstr "Bearbeiten"
+
+#: View/Users/edit.ctp:13
+msgid "Login :"
+msgstr "Einloggen"
+
+#: View/Users/edit.ctp:14 View/Users/signup.ctp:13
+msgid "Password :"
+msgstr "Neues Passwort"
+
+#: View/Users/edit.ctp:15 View/Users/signup.ctp:15
+msgid "Confirm Password :"
+msgstr "Passwort vergessen?"
+
+#: View/Users/forgot.ctp:4
+msgid "Password Reminder"
+msgstr ""
+
+#: View/Users/forgot.ctp:5
+msgid ""
+"To change your password please fill in the fields below your email address. "
+"<br>\n"
+"\t\t\t\t\t\t\tAn email will be sent with the information needed to create "
+"your new password"
+msgstr ""
+
+#: View/Users/forgot.ctp:8
+msgid "Your Email"
+msgstr "Ihre Email"
+
+#: View/Users/index.ctp:5
+msgid "Manage Users"
+msgstr ""
+
+#: View/Users/index.ctp:14
+msgid "<i class=\"glyphicon glyphicon-import\"></i> Add User"
+msgstr ""
+
+#: View/Users/index.ctp:26
+msgid "<i class='glyphicon glyphicon-pencil'></i> Edit"
+msgstr ""
+
+#: View/Users/index.ctp:30
+msgid "<i class='glyphicon glyphicon-trash'></i> Delete"
+msgstr ""
+
+#: View/Users/index.ctp:31
+msgid "Do you really want delete "
+msgstr "Sind Sie sicher, dass # %s gelöscht werden soll?"
+
+#: View/Users/index.ctp:31
+msgid " your users"
+msgstr ""
+
+#: View/Users/login.ctp:5
+msgid "Login"
+msgstr "Einloggen"
+
+#: View/Users/login.ctp:15
+msgid "username"
+msgstr "Ihr Name"
+
+#: View/Users/login.ctp:28
+msgid "Remember me"
+msgstr ""
+
+#: View/Users/login.ctp:32
+msgid "Sign In "
+msgstr ""
+
+#: View/Users/login.ctp:38
+msgid "Forgot password?"
+msgstr "Passwort vergessen?"
+
+#: View/Users/login.ctp:41
+msgid "Create account"
+msgstr "Inhalt erstellen"
+
+#: View/Users/password.ctp:4
+msgid "Change password"
+msgstr "Passwort bestätigen"
+
+#: View/Users/password.ctp:7
+msgid "Confirm Password"
+msgstr "Passwort vergessen?"
+
+#: View/Users/signup.ctp:1;6
+msgid "Signup"
+msgstr ""
+
+#: View/Users/signup.ctp:15
+msgid "Confirm password :"
+msgstr "Passwort vergessen?"
+
+#: Model/Carrousel.php:validation for field name;validation image;validation
+#: title
+msgid "This field must not be empty"
+msgstr "Dieses Feld darf nur alphanumerische Werte beinhalten"
+
+#: Model/Contact.php:validation for field name
+msgid "you must enter your name"
+msgstr ""
+
+#: Model/Contact.php:validation for field email
+msgid "You must enter a valid email address"
+msgstr "Bitte geben Sie eine gültige Emailadresse ein."
+
+#: Model/Contact.php:validation for field mobile
+msgid "You must enter a numero mobile "
+msgstr ""
+
+#: Model/Contact.php:validation for field message
+msgid "You must enter your message"
+msgstr ""
+
+#: Model/Contact.php:validation for field subject
+msgid "You must enter your subject"
+msgstr ""
+
+#: Model/Link.php:validation for field name
+msgid "Please complete this field"
+msgstr ""
+
+#: Model/Link.php:validation for field url
+msgid "Your url isn't valide"
+msgstr ""
+
+#: Model/Offering.php:validation for field name
+msgid "You must enter your name"
+msgstr ""
+
+#: Model/Offering.php:validation for field phone
+msgid "You must enter a numero telephone valid"
+msgstr ""
+
+#: Model/Offering.php:validation for field mobile
+msgid "You must enter a numero mobile valide"
+msgstr ""
+
+#: Model/Offering.php:validation for field email
+msgid "You must enter your a Email valid"
+msgstr ""
+
+#: Model/Offering.php:validation for field size
+msgid "You must enter your area"
+msgstr ""
+
+#: Model/Offering.php:validation for field property_id
+msgid "You must enter your  type of property"
+msgstr ""
+
+#: Model/Offering.php:validation for field price
+msgid "You must enter a price"
+msgstr ""
+
+#: Model/Offering.php:validation for field address
+msgid "You must enter your area a adress"
+msgstr ""
+
+#: Model/Offering.php:validation for field message
+msgid "You must enter your area a  message"
+msgstr "Die Benutzer können Nachrichten hinterlassen"
+
+#: Model/Offering.php:validation for field gender
+msgid "Please select one of these options."
+msgstr ""
+
+#: Model/Page.php:validation for field slug
+msgid "L'url n'est pas valide"
+msgstr ""
+
+#: Model/Page.php:validation for field name
+msgid " You must specify a title"
+msgstr ""
+
+#: Model/Post.php:validation for field slug
+msgid "L'url isn't valide"
+msgstr ""
+
+#: Model/Post.php:validation for field name
+msgid "You must enter a title "
+msgstr ""
+
+#: Model/Property.php:validation for field name
+msgid "Your custom message here"
+msgstr ""
+
+#: Model/Property.php:validation for field state_id;validation
+#: area_id;validation status_id;validation type_id
+msgid "notEmpty"
+msgstr ""
+
+#: Model/Property.php:validation for field size
+msgid "decimal"
+msgstr ""
+
+#: Model/Property.php:validation for field price
+msgid "Thank you to submit a valid monetary amount."
+msgstr ""
+
+#: Model/Property.php:validation for field online
+msgid "boolean"
+msgstr ""
+
+#: Model/Property.php:validation for field modified
+msgid "date no valid"
+msgstr ""
+
+#: Model/Property.php:validation for field bedrooms
+msgid "number of bed"
+msgstr ""
+
+#: Model/User.php:validation for field username
+msgid "Your user isn't invalid"
+msgstr ""
+
+#: Model/User.php:validation for field username
+msgid "This username is already used"
+msgstr "Dieser Benutzername existiert bereits."
+
+#: Model/User.php:validation for field username
+msgid "Between 5 and 15 characters"
+msgstr ""
+
+#: Model/User.php:validation for field mail
+msgid "You must enter a valid email "
+msgstr "Bitte geben Sie eine gültige Emailadresse ein."
+
+#: Model/User.php:validation for field mail
+msgid "This email is already used"
+msgstr "Diese Emailadresse existiert bereits."
+
+#: Model/User.php:validation for field password
+msgid "8 characters minimum"
+msgstr ""
+
+#: Model/User.php:validation for field password2
+msgid "Confirm your password"
+msgstr "Passwort vergessen?"
+
+#: Model/User.php:validation for field avatarf
+msgid "Vous devez envoyer un jpg"
+msgstr ""
+
+#~ msgid "Permissions"
+#~ msgstr "Rechte"
+
+#~ msgid "Access Control"
+#~ msgstr "Zugriffskontrolle"
+
+#~ msgid "Add Action"
+#~ msgstr "Aktionen hinzufügen"
+
+#~ msgid "Edit Action"
+#~ msgstr "Aktion bearbeiten"
+
+#~ msgid "Invalid Action"
+#~ msgstr "Ungültige Aktion"
+
+#~ msgid "The Action has been saved"
+#~ msgstr "Aktion wurde gespeichert"
+
+#~ msgid "The Action could not be saved. Please, try again."
+#~ msgstr "Aktion konnte nicht gespeichert werden. Bitte nochmal versuchen."
+
+#~ msgid "Invalid id for Action"
+#~ msgstr "Ungültige ID für Aktion"
+
+#~ msgid "Action deleted"
+#~ msgstr "Aktion gelöscht"
+
+#~ msgid "Action moved up"
+#~ msgstr "Aktion wurde nach oben bewegt"
+
+#~ msgid "Action moved down"
+#~ msgstr "Aktion wurde nach unten bewegt"
+
+#~ msgid "Created %d new permissions"
+#~ msgstr "%d neue Rechte wurden erstellt"
+
+#~ msgid "Add"
+#~ msgstr "Hinzufügen"
+
+#~ msgid "Action"
+#~ msgstr "Aktion"
+
+#~ msgid "Parent"
+#~ msgstr "Ursprung"
+
+#~ msgid "Choose none if the Aco is a controller."
+#~ msgstr "Keine wählen, wenn das Aco ein Kontroller ist"
+
+#~ msgid "Alias"
+#~ msgstr "Alias"
+
+#~ msgid "Publishing"
+#~ msgstr "Veröffentlichen"
+
+#~ msgid "Apply"
+#~ msgstr "Anwenden"
+
+#~ msgid "Save"
+#~ msgstr "Speichern"
+
+#~ msgid "Cancel"
+#~ msgstr "Abbrechen"
+
+#~ msgid "Move up"
+#~ msgstr "Nach oben"
+
+#~ msgid "Move down"
+#~ msgstr "Nach unten"
+
+#~ msgid "Are you sure?"
+#~ msgstr "Sind Sie Sicher?"
+
+#~ msgid "error"
+#~ msgstr "Fehler"
+
+#~ msgid "Blocks"
+#~ msgstr "Blöcke"
+
+#~ msgid "Regions"
+#~ msgstr "Regionen"
+
+#~ msgid "Add Block"
+#~ msgstr "Block hinzufügen"
+
+#~ msgid "The Block has been saved"
+#~ msgstr "Block wurde gespeichert"
+
+#~ msgid "The Block could not be saved. Please, try again."
+#~ msgstr ""
+#~ "Block konnte nicht gespeichert werden. Bitte versuchen Sie es nochmal."
+
+#~ msgid "Edit Block"
+#~ msgstr "Block bearbeiten"
+
+#~ msgid "Invalid Block"
+#~ msgstr "Ungültiger Block"
+
+#~ msgid "Invalid id for Block"
+#~ msgstr "Ungültige ID für Block"
+
+#~ msgid "Block deleted"
+#~ msgstr "Block gelöscht"
+
+#~ msgid "Moved up successfully"
+#~ msgstr "Erfolgreich nach oben verschoben"
+
+#~ msgid "Could not move up"
+#~ msgstr "Konnte nicht verschoben werden"
+
+#~ msgid "Moved down successfully"
+#~ msgstr "Erfolgreich nach unten verschoben"
+
+#~ msgid "Could not move down"
+#~ msgstr "Konnte nicht verschoben werden"
+
+#~ msgid "Blocks published"
+#~ msgstr "Blöcke veröffentlicht"
+
+#~ msgid "Blocks unpublished"
+#~ msgstr "Blöcke unveröffentlicht"
+
+#~ msgid "Blocks copied"
+#~ msgstr "Blöcke veröffentlicht"
+
+#~ msgid "Region"
+#~ msgstr "Bereich"
+
+#~ msgid "Add Region"
+#~ msgstr "Bereich hinzufügen"
+
+#~ msgid "The Region has been saved"
+#~ msgstr "Bereich wurde gespeichert"
+
+#~ msgid "The Region could not be saved. Please, try again."
+#~ msgstr ""
+#~ "Der Bereich konnte nicht gespeichert werden. Bitte nochmal versuchen"
+
+#~ msgid "Edit Region"
+#~ msgstr "Bereich bearbeiten"
+
+#~ msgid "Invalid Region"
+#~ msgstr "Ungültiger Bereich"
+
+#~ msgid "Invalid id for Region"
+#~ msgstr "Ungültige ID für Bereich"
+
+#~ msgid "Region deleted"
+#~ msgstr "Bereich gelöscht"
+
+#~ msgid "Block"
+#~ msgstr "Block"
+
+#~ msgid "Access"
+#~ msgstr "Zugriff"
+
+#~ msgid "Visibilities"
+#~ msgstr "Sichtbarkeit"
+
+#~ msgid "Params"
+#~ msgstr "Parameter"
+
+#~ msgid "unique name for your block"
+#~ msgstr "eindeutiger Name für den Block"
+
+#~ msgid "if you are not sure, choose 'none'"
+#~ msgstr "Wenn Sie nicht sicher sind, wählen Sie 'none'"
+
+#~ msgid "Role"
+#~ msgstr "Rolle"
+
+#~ msgid ""
+#~ "Enter one URL per line. Leave blank if you want this Block to appear in "
+#~ "all pages."
+#~ msgstr ""
+#~ "Eine URL pro Linie. Leer lassen wenn der Block auf allen Seiten angezeigt "
+#~ "werden soll."
+
+#, fuzzy
+#~ msgid "Publish Start"
+#~ msgstr "Veröffentlichen"
+
+#, fuzzy
+#~ msgid "Publish End"
+#~ msgstr "Veröffentlicht"
+
+#, fuzzy
+#~ msgid "Create a copy"
+#~ msgstr "Ordner erstellen"
+
+#~ msgid "Publish"
+#~ msgstr "Veröffentlichen"
+
+#~ msgid "Unpublish"
+#~ msgstr "Nicht veröffentlichen"
+
+#~ msgid "Comments"
+#~ msgstr "Kommentare"
+
+#~ msgid "Published"
+#~ msgstr "Veröffentlicht"
+
+#~ msgid "Approval"
+#~ msgstr "Bestätigt"
+
+#~ msgid "Invalid Comment"
+#~ msgstr "Ungültiger Kommentar"
+
+#~ msgid "The Comment has been saved"
+#~ msgstr "Kommentar gespeichert"
+
+#~ msgid "The Comment could not be saved. Please, try again."
+#~ msgstr ""
+#~ "Der Kommentar konnte nicht gespeichert werden. Bitte versuchen Sie es "
+#~ "nochmal."
+
+#~ msgid "Invalid id for Comment"
+#~ msgstr "Ungültige ID für Kommentar"
+
+#~ msgid "Comment deleted"
+#~ msgstr "Kommentar gelöscht"
+
+#~ msgid "Comments deleted"
+#~ msgstr "Kommentare gelöscht"
+
+#~ msgid "Comments published"
+#~ msgstr "Kommentare veröffentlicht"
+
+#~ msgid "Comments unpublished"
+#~ msgstr "Kommentare unveröffentlicht"
+
+#~ msgid "Invalid id"
+#~ msgstr "Ungültige ID"
+
+#~ msgid "Maximum level reached. You cannot reply to that comment."
+#~ msgstr "maximale Anzahl an Kommentaren. Sie können kein Kommentar schreiben"
+
+#~ msgid "Comments are not allowed."
+#~ msgstr "Kommentare nicht erlaubt"
+
+#~ msgid "Your comment will appear after moderation."
+#~ msgstr "Ihr Kommentar wird bald möglichst freigeschaltet "
+
+#~ msgid "Sorry, the comment appears to be spam."
+#~ msgstr "Der Kommentar sieht aus wie Spam."
+
+#~ msgid "Invalid captcha entry"
+#~ msgstr "Ungültige Captcha Eingabe"
+
+#~ msgid "New comment posted under"
+#~ msgstr "Neuer Kommentar hinzugefügt unter"
+
+#~ msgid "Comment"
+#~ msgstr "Kommentieren"
+
+#~ msgid "Website"
+#~ msgstr "Webseite"
+
+#~ msgid "Comments: Published"
+#~ msgstr "Kommentare: veröffentlicht"
+
+#~ msgid "Comments: Approval"
+#~ msgstr "Kommentare: Bestätigt"
+
+#~ msgid "Comment on"
+#~ msgstr "Kommentar am"
+
+#~ msgid "by"
+#~ msgstr "von"
+
+#~ msgid "said on %s"
+#~ msgstr "sagte am %s"
+
+#~ msgid "Reply"
+#~ msgstr "Antworten"
+
+#~ msgid "Go back to original post"
+#~ msgstr "Zurück zum ursprünglichen Post"
+
+#~ msgid "Post comment"
+#~ msgstr "Kommentar posten"
+
+#~ msgid "Disabled"
+#~ msgstr "Deaktiviert"
+
+#~ msgid "Read/Write"
+#~ msgstr "Lesen/Schreiben"
+
+#~ msgid "A new comment has been posted under: %s"
+#~ msgstr "Ein neuer Kommentar wurde geschrieben in: %s"
+
+#~ msgid "Name: %s"
+#~ msgstr "Name: %s"
+
+#~ msgid "Email: %s"
+#~ msgstr "Email: %s"
+
+#~ msgid "Website: %s"
+#~ msgstr "Webseite: %s"
+
+#~ msgid "Comment: %s"
+#~ msgstr "Kommentar: %s"
+
+#~ msgid "The Contact has been saved"
+#~ msgstr "Kontakt gespeichert"
+
+#~ msgid "The Contact could not be saved. Please, try again."
+#~ msgstr ""
+#~ "Der Kontakt konnte nicht gespeichert werden. Bitte nochmal versuchen."
+
+#~ msgid "Edit Contact"
+#~ msgstr "Kontakt bearbeiten"
+
+#~ msgid "Invalid Contact"
+#~ msgstr "Ungültiger Kontakt"
+
+#~ msgid "Invalid id for Contact"
+#~ msgstr "Ungültige ID für Kontakt"
+
+#~ msgid "Contact deleted"
+#~ msgstr "Kontakt gelöscht"
+
+#~ msgid "Your message has been received..."
+#~ msgstr "Die Nachricht wurde übertragen..."
+
+#~ msgid "Sorry, the message appears to be spam."
+#~ msgstr "Die Nachricht sieht aus wie Spam."
+
+#~ msgid "[%s] %s"
+#~ msgstr "[%s] %s"
+
+#~ msgid "Read"
+#~ msgstr "Gelesen"
+
+#~ msgid "Invalid Message"
+#~ msgstr "Ungültige Nachricht"
+
+#~ msgid "The Message has been saved"
+#~ msgstr "Nachricht wurde gepeichert."
+
+#~ msgid "The Message could not be saved. Please, try again."
+#~ msgstr ""
+#~ "Die Nachricht konnte nicht gespeichert werden. Bitte versuchen Sie es "
+#~ "noch mal."
+
+#~ msgid "Invalid id for Message"
+#~ msgstr "Ungültige ID für die Nachricht"
+
+#~ msgid "Message deleted"
+#~ msgstr "Nachricht gelöscht"
+
+#, fuzzy
+#~ msgid "Messages deleted"
+#~ msgstr "Nachrichten gelöscht."
+
+#~ msgid "Messages marked as read"
+#~ msgstr "Nachrichten als gelesen markiert"
+
+#~ msgid "Messages marked as unread"
+#~ msgstr "Nachrichten als ungelesen markiert"
+
+#~ msgid "Save messages in database"
+#~ msgstr "Nachrichten in der Datenbank speichern"
+
+#~ msgid "Notify by email instantly"
+#~ msgstr "Sofort per Email benachrichten"
+
+#~ msgid "Spam protection (requires Akismet API key)"
+#~ msgstr "Spam Sicherheit (benötigt Akismet API key)"
+
+#~ msgid "Use captcha? (requires Recaptcha API key)"
+#~ msgstr "Captcha benutzen? (requires Recaptcha API key)"
+
+#~ msgid "You can manage your API keys here."
+#~ msgstr "Sie können ihr API Schlüssel hier verwalten."
+
+#~ msgid "You have received a new message at: %s"
+#~ msgstr "Sie haben eine neue Nachricht erhalten: %s"
+
+#~ msgid "Subject: %s"
+#~ msgstr "Betreff: %s"
+
+#~ msgid "Message: %s"
+#~ msgstr "Nachricht: %s"
+
+#~ msgid "Messages: Read"
+#~ msgstr "Nachrichten: Gelesen"
+
+#~ msgid "Unread"
+#~ msgstr "Ungelesen"
+
+#~ msgid "Messages: Unread"
+#~ msgstr "Nachrichten: Ungelesen"
+
+#~ msgid "Mark as read"
+#~ msgstr "Als gelesen markieren"
+
+#~ msgid "Mark as unread"
+#~ msgstr "Als ungelesen markieren"
+
+#~ msgid "%s \"%s\" not found."
+#~ msgstr "%s \"%s\" nicht gefunden."
+
+#~ msgid "Activate Plugins & Themes"
+#~ msgstr "Plugins & Themes aktivieren"
+
+#~ msgid "Extension type"
+#~ msgstr "Erweiterungsttyp"
+
+#~ msgid "Name of extension"
+#~ msgstr "Name der Erweiterung"
+
+#~ msgid "Plugin \"%s\" activated successfully."
+#~ msgstr "Plugin \"%s\" erfolgreich aktiviert."
+
+#~ msgid "Plugin \"%s\" could not be activated. Please, try again."
+#~ msgstr ""
+#~ "Plugin \"%s\"  konnte nicht aktiviert werden. Bitte nochmal versuchen "
+
+#~ msgid "Plugin \"%s\" could not be deactivated. Please, try again."
+#~ msgstr ""
+#~ "Plugin \"%s\"  konnte nicht deaktiviert werden. Bitte nochmal versuchen "
+
+#~ msgid "Plugin \"%s\" deactivated successfully."
+#~ msgstr "Plugin \"%s\" erfolgreich deaktiviert."
+
+#~ msgid "Theme \"%s\" activated successfully."
+#~ msgstr "Theme \"%s\" erfolgreich aktiviert."
+
+#~ msgid "Theme \"%s\" activation failed."
+#~ msgstr "Theme \"%s\", Aktivierung fehlgeschlagen."
+
+#~ msgid "Installing with Composer..."
+#~ msgstr "Installation mit Composer..."
+
+#~ msgid "Unexpected composerInstall return value"
+#~ msgstr "Unerwarteter Rückgabewert von composerInstall"
+
+#~ msgid "Package installed and activated."
+#~ msgstr "Paket installiert und aktiviert."
+
+#~ msgid "Package installed but not activated."
+#~ msgstr "Paket installiert aber nicht aktiviert."
+
+#~ msgid "Extension installed and activated."
+#~ msgstr "Erweiterung installiert und aktiviert."
+
+#~ msgid "Download, Install & Activate Plugins & Themes"
+#~ msgstr "Plugins & Themes herunterladen, installieren & aktivieren"
+
+#~ msgid "URL to zip file OR github user name"
+#~ msgstr "URL zum Zip-Datei ODER Benutzername für github"
+
+#~ msgid "Github repo name"
+#~ msgstr "Github Name des repo"
+
+#~ msgid "Installing extension..."
+#~ msgstr "Installation der Erweiterung läuft..."
+
+#~ msgid "Please specify a URL to a zipball extension"
+#~ msgstr "Bitte die URL der Erweiterung-Zip-Datei spezifizieren."
+
+#~ msgid "Downloading extension to %s..."
+#~ msgstr "Speichern der Erweiterung nach %s..."
+
+#~ msgid "Site down for maintenance"
+#~ msgstr "Seite offline wegen Wartungsarbeiten"
+
+#~ msgid "Errors in CakeErrorController: %s"
+#~ msgstr "Fehler im CakeErrorController: %s"
+
+#, fuzzy
+#~ msgid "No item selected"
+#~ msgstr "Nichts ausgewählt"
+
+#~ msgid "An error occured"
+#~ msgstr "Ein Fehler ist aufgetreten."
+
+#~ msgid "Invalid content"
+#~ msgstr "Ungültiger Inhalt"
+
+#~ msgid "EventHandler %s not found in plugin %s"
+#~ msgstr "EventHandler %s nicht gefunden im Plugin %s"
+
+#~ msgid "Unable to get routeable content types: %s"
+#~ msgstr "Keine Inhaltstypen zum Routen gefunden: %s"
+
+#~ msgid "Unpublished"
+#~ msgstr "Unveröffentlicht"
+
+#, fuzzy
+#~ msgid "Action %s is disabled"
+#~ msgstr "Aktion gelöscht"
+
+#~ msgid "Croogo %s"
+#~ msgstr "Croogo %s"
+
+#~ msgid "last"
+#~ msgstr "Ende"
+
+#~ msgid "Filter"
+#~ msgstr "Filter"
+
+#~ msgid "Page not found"
+#~ msgstr "Seite nicht gefunden"
+
+#~ msgid "Error"
+#~ msgstr "Fehler"
+
+#~ msgid "The requested address was not found on this server."
+#~ msgstr ""
+#~ "Die angeforderte Adresse konnte auf dem Server nicht gefunden werden."
+
+#~ msgid "Security Error"
+#~ msgstr "Sicherheitsfehler"
+
+#~ msgid "Croogo"
+#~ msgstr "Croogo"
+
+#~ msgid "Back to"
+#~ msgstr "Zurück zu"
+
+#~ msgid "Site down for maintenance."
+#~ msgstr "Seite geschlossen wegen Wartungsarbeiten"
+
+#~ msgid "content here"
+#~ msgstr "Inhalt hier"
+
+#~ msgid "Themes"
+#~ msgstr "Themes"
+
+#~ msgid "Locales"
+#~ msgstr "Locale"
+
+#~ msgid "Plugins"
+#~ msgstr "Plugins"
+
+#~ msgid "Locale does not exist."
+#~ msgstr "Locale existiert nicht."
+
+#~ msgid "Locale '%s' set as default"
+#~ msgstr "Locale '%s' als Default gesetzt."
+
+#~ msgid "Could not save Locale setting."
+#~ msgstr "Locale-Einstellung konnte nicht gespeichert werden."
+
+#~ msgid "Upload a new locale"
+#~ msgstr "Neue Locale hochladen"
+
+#~ msgid "Invalid locale."
+#~ msgstr "Ungültige Locale."
+
+#~ msgid "Locale already exists."
+#~ msgstr "Locale existiert bereits."
+
+#~ msgid "Edit locale: %s"
+#~ msgstr "Locale bearbeiten: %s"
+
+#~ msgid "Locale updated successfully"
+#~ msgstr "Locale erfolgreich aktualisiert"
+
+#~ msgid "Locale deleted successfully."
+#~ msgstr "Locale erfolgreich gelöscht."
+
+#~ msgid "Local could not be deleted."
+#~ msgstr "Locale konnte nicht gelöscht werden."
+
+#~ msgid "Upload a new plugin"
+#~ msgstr "Neues Plugin hochladen"
+
+#~ msgid "Invalid plugin"
+#~ msgstr "Ungültiges Plugin"
+
+#~ msgid "You cannot delete a plugin that is currently active."
+#~ msgstr "Plugin ist gerade aktiviert und kann nicht gelöscht werden."
+
+#~ msgid "Plugin \"%s\" deleted successfully."
+#~ msgstr "Plugin \"%s\" erfolgreich gelöscht."
+
+#~ msgid "Plugin could not be deleted."
+#~ msgstr "Plugin konnte nicht gelöscht werden."
+
+#~ msgid "Plugin could not be deactivated. Please, try again."
+#~ msgstr "Plugin konnte nicht deaktiviert werden. Bitte nochmal versuchen."
+
+#~ msgid "Plugin could not be activated. Please, try again."
+#~ msgstr "Plugin konnte nicht aktiviert werden. Bitte nochmal versuchen."
+
+#~ msgid "Theme activated."
+#~ msgstr "Theme aktiviert."
+
+#~ msgid "Theme activation failed."
+#~ msgstr "Theme konnte nicht aktiviert werden."
+
+#~ msgid "Upload a new theme"
+#~ msgstr "Neues Theme hochladen"
+
+#~ msgid "Theme uploaded successfully."
+#~ msgstr "Theme erfolgreich hochladen."
+
+#~ msgid "Theme Editor"
+#~ msgstr "Theme Editor"
+
+#~ msgid "Invalid Theme."
+#~ msgstr "Ungültiges Theme"
+
+#~ msgid "Default theme cannot be deleted."
+#~ msgstr "Default-Theme konnte nicht gelöscht werden."
+
+#~ msgid "You cannot delete a theme that is currently active."
+#~ msgstr "Sie können nicht ein Theme löschen, das gerade aktiv ist."
+
+#~ msgid "Theme deleted successfully."
+#~ msgstr "Theme erfolgreich gelöscht."
+
+#~ msgid "An error occurred."
+#~ msgstr "Ein Fehler ist aufgetreten"
+
+#~ msgid "Plugin \"%s\" is already active."
+#~ msgstr "Plugin \"%s\" ist bereits aktiv."
+
+#~ msgid "Plugin \"%s\" depends on \"%s\" plugin."
+#~ msgstr "Plugin \"%s\" hängt vom \"%s\"-Plugin."
+
+#~ msgid "Plugin \"%s\" is not active."
+#~ msgstr "Plugin \"%s\" ist nicht aktiv."
+
+#~ msgid "Invalid theme"
+#~ msgstr "Ungültiges Theme"
+
+#~ msgid "Invalid plugin path"
+#~ msgstr "Ungültige Pfad für Plugin"
+
+#~ msgid "Invalid zip archive"
+#~ msgstr "Ungültige ZIP-Datei"
+
+#~ msgid "Invalid plugin file path"
+#~ msgstr "Ungültiges Pfad für Plugin-Datei"
+
+#~ msgid "Plugin already exists"
+#~ msgstr "Plugin existiert bereits"
+
+#~ msgid "Failed to extract plugin"
+#~ msgstr "Plugin konnte nicht extrahiert werden"
+
+#~ msgid "Invalid theme path"
+#~ msgstr "Ungültiges Pfad für Theme"
+
+#~ msgid "Invalid theme file path"
+#~ msgstr "Ungültiges Pfad für Theme-Datei"
+
+#~ msgid "Theme already exists"
+#~ msgstr "Theme existiert bereits"
+
+#~ msgid "Failed to extract theme"
+#~ msgstr "Theme konnte nicht extrahiert werden"
+
+#~ msgid "Must specify a valid package name: vendor/name."
+#~ msgstr "Sie müssen einen gültigen Packagenamen spezifizieren: vendor/name."
+
+#~ msgid "Themes installed via composer are not yet supported."
+#~ msgstr ""
+#~ "Themes, die via Composer installiert wruden, werden noch nicht "
+#~ "unterstützt."
+
+#~ msgid "Upload"
+#~ msgstr "Upload"
+
+#~ msgid "Locale"
+#~ msgstr "Locale"
+
+#~ msgid "Default"
+#~ msgstr "Default"
+
+#~ msgid "Activate"
+#~ msgstr "Aktivieren"
+
+#~ msgid "Active"
+#~ msgstr "Aktiv"
+
+#~ msgid "Deactivate"
+#~ msgstr "Deaktivieren"
+
+#~ msgid "Current Theme"
+#~ msgstr "Aktuelles Theme"
+
+#~ msgid "Regions supported: "
+#~ msgstr "Regionen unterstützt:"
+
+#~ msgid "Available Themes"
+#~ msgstr "Verfügbare Themes"
+
+#~ msgid "Media"
+#~ msgstr "Medien"
+
+#~ msgid "Attachments"
+#~ msgstr "Anlagen"
+
+#~ msgid "File Manager"
+#~ msgstr "Dateimanager"
+
+#~ msgid "Add Attachment"
+#~ msgstr "Anlage hinzufügen"
+
+#~ msgid "Upload failed. Please ensure size does not exceed the server limit."
+#~ msgstr ""
+#~ "Hochladen fehlgeschlagen. Bitte stellen Sie sicher, dass die Dateigröße "
+#~ "nicht das Server-Limit überschreitet."
+
+#~ msgid "The Attachment has been saved"
+#~ msgstr "Anlage wurde gespeichert"
+
+#~ msgid "The Attachment could not be saved. Please, try again."
+#~ msgstr ""
+#~ "Anlage konnte nicht gespeichert werden. Bitte versuchen Sie es nochmal."
+
+#~ msgid "Edit Attachment"
+#~ msgstr "Anlage bearbeiten"
+
+#~ msgid "Invalid Attachment"
+#~ msgstr "Ungültige Anlage"
+
+#~ msgid "Invalid id for Attachment"
+#~ msgstr "Ungültige ID für Anlage"
+
+#~ msgid "Attachment deleted"
+#~ msgstr "Anlage gelöscht"
+
+#~ msgid "Edit file: %s"
+#~ msgstr "Datei bearbeiten: %s"
+
+#~ msgid "File saved successfully"
+#~ msgstr "Datei erfolgreich gespeichert"
+
+#~ msgid "File uploaded successfully."
+#~ msgstr "Datei erfolgreich hochgeladen."
+
+#~ msgid "File deleted"
+#~ msgstr "Datei gelöscht"
+
+#~ msgid "Directory deleted"
+#~ msgstr "Verzeichnis gelöscht"
+
+#~ msgid "Directory created successfully."
+#~ msgstr "Verzeichnis erfolgreich erstellt"
+
+#~ msgid "File created successfully."
+#~ msgstr "Datei erfolgreich erstellt"
+
+#~ msgid "New Attachment"
+#~ msgstr "Neue Anlage"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "Insert"
+#~ msgstr "Einfügen"
+
+#~ msgid "Sort by:"
+#~ msgstr "Sortiert nach:"
+
+#~ msgid "Promoted"
+#~ msgstr "Befördert"
+
+#~ msgid "Caption"
+#~ msgstr "Überschrift"
+
+#~ msgid "File URL"
+#~ msgstr "Datei URL"
+
+#~ msgid "Mime Type"
+#~ msgstr "Mime Typ"
+
+#~ msgid "Yes"
+#~ msgstr "Ja"
+
+#~ msgid "No"
+#~ msgstr "Nein"
+
+#~ msgid "Upload here"
+#~ msgstr "Hier hochladen"
+
+#~ msgid "Create directory"
+#~ msgstr "Ordner erstellen"
+
+#~ msgid "Create file"
+#~ msgstr "Datei erstellen"
+
+#~ msgid "Directory content"
+#~ msgstr "Ordnerinhalt"
+
+#~ msgid "Open"
+#~ msgstr "Öffnen"
+
+#~ msgid "Create"
+#~ msgstr "Erstellen"
+
+#~ msgid "Install Utilities"
+#~ msgstr "Utilities installieren"
+
+#~ msgid "Verify Password"
+#~ msgstr "Passwort bestätigen"
+
+#~ msgid "Installation: Welcome"
+#~ msgstr "Installation: Willkommen"
+
+#~ msgid "Step 1: Database"
+#~ msgstr "Schritt 1: Datenbank"
+
+#~ msgid "Step 2: Build database"
+#~ msgstr "Schritt 2: Datenbank erstellen"
+
+#~ msgid "Could not write database.php file."
+#~ msgstr "Die Datei 'database.php' konnte nicht geschrieben werden."
+
+#~ msgid "Could not connect to database."
+#~ msgstr "Keine Datenbankverbindung möglich."
+
+#~ msgid "Step 3: Create Admin User"
+#~ msgstr "Schritt 3: Admin User erstellen"
+
+#~ msgid "Click here to build your database"
+#~ msgstr "Hier klicken, um die Datenbank zu erstellen"
+
+#~ msgid ""
+#~ "\n"
+#~ "\t\tThe user %s has been created with administrative rights."
+#~ msgstr ""
+#~ "\n"
+#~ "\t\tBenutzer %s wurde mit Adminrechte erstellt."
+
+#~ msgid "Admin panel: %s"
+#~ msgstr "Admin-Panel"
+
+#~ msgid "You can start with %s or jump in and %s."
+#~ msgstr "Sie können mit %s starten oder eintretten und %s"
+
+#~ msgid "configuring your site"
+#~ msgstr "Seite wird konfiguriert"
+
+#~ msgid "create a blog post"
+#~ msgstr "ein Blog-Post erstellen"
+
+#~ msgid "Resources"
+#~ msgstr "Ressourcen"
+
+#~ msgid "Your tmp directory is writable."
+#~ msgstr "Das 'tmp' Verzeichnis ist beschreibbar."
+
+#~ msgid "Your tmp directory is NOT writable."
+#~ msgstr "Das 'tmp' Verzeichnis ist NICHT beschreibbar."
+
+#~ msgid "Your config directory is writable."
+#~ msgstr "Das 'config' Verzeichnis ist beschreibbar."
+
+#~ msgid "Your config directory is NOT writable."
+#~ msgstr "Das 'config' Verzeichnis ist NICHT beschreibbar."
+
+#~ msgid "CakePHP version %s < %s"
+#~ msgstr "CakePHP Version %s < %s"
+
+#~ msgid "Installation cannot continue as minimum requirements are not met."
+#~ msgstr ""
+#~ "Die Installation kann nicht fortgesetzt werden, weil nicht alle "
+#~ "Systemanforderungen getroffen wurden."
+
+#~ msgid "Install Croogo"
+#~ msgstr "Croogo installieren"
+
+#~ msgid "Menus"
+#~ msgstr "Menus"
+
+#~ msgid "Links: %s"
+#~ msgstr "Links: %s"
+
+#~ msgid "Invalid id for Link"
+#~ msgstr "Ungültige ID für den Link"
+
+#~ msgid "Link deleted"
+#~ msgstr "Link gelöscht"
+
+#, fuzzy
+#~ msgid "Links deleted"
+#~ msgstr "Links gelöscht."
+
+#~ msgid "Links published"
+#~ msgstr "Links veröffentlicht"
+
+#~ msgid "Links unpublished"
+#~ msgstr "Links unveröffentlicht"
+
+#~ msgid "Add Menu"
+#~ msgstr "Menu hinzufügen"
+
+#~ msgid "The Menu has been saved"
+#~ msgstr "Menu wurde gespeichert"
+
+#~ msgid "The Menu could not be saved. Please, try again."
+#~ msgstr "Das Menu konnte nicht gepeichert werden. Bitte nochmal versuchen."
+
+#~ msgid "Edit Menu"
+#~ msgstr "Menu bearbeiten"
+
+#~ msgid "Invalid Menu"
+#~ msgstr "Ungültiges Menu"
+
+#~ msgid "Invalid id for Menu"
+#~ msgstr "Ungültige ID für Menu"
+
+#~ msgid "Menu deleted"
+#~ msgstr "Menu gelöscht"
+
+#~ msgid "Misc."
+#~ msgstr "Verschiedenes"
+
+#~ msgid "Menu"
+#~ msgstr "Menu"
+
+#~ msgid "Add another field"
+#~ msgstr "Neues Feld hinzufügen"
+
+#~ msgid "Key"
+#~ msgstr "Schlüssel"
+
+#~ msgid "Value"
+#~ msgstr "Wert"
+
+#~ msgid "Remove"
+#~ msgstr "Entfernen"
+
+#~ msgid "List"
+#~ msgstr "Liste"
+
+#~ msgid "Content type does not exist."
+#~ msgstr "Inhaltstyp existiert nicht."
+
+#~ msgid "%s has been saved"
+#~ msgstr "%s wurde gespeichert"
+
+#~ msgid "%s could not be saved. Please, try again."
+#~ msgstr ""
+#~ "%s konnte nicht gespeichert werden. Bitte versuchen Sie es noch einmal."
+
+#~ msgid "Create content: %s"
+#~ msgstr "Inhalt erstellen: %s"
+
+#~ msgid "Paths updated."
+#~ msgstr "Pfade aktualisiert."
+
+#~ msgid "Invalid id for Node"
+#~ msgstr "Ungültige ID für Node"
+
+#~ msgid "Node deleted"
+#~ msgstr "Node gelöscht"
+
+#~ msgid "Invalid content type."
+#~ msgstr "Ungültiger Inhaltstyp"
+
+#~ msgid "Invalid Term."
+#~ msgstr "Ungültiger Term"
+
+#~ msgid "on"
+#~ msgstr "am"
+
+#~ msgid "Posted in"
+#~ msgstr "Gepostet in"
+
+#~ msgid "Leave a comment"
+#~ msgstr "Kommentar hinterlassen"
+
+#~ msgid "Promoted to front page"
+#~ msgstr "In die Startseite befördern"
+
+#~ msgid "Promote"
+#~ msgstr "Befördern"
+
+#~ msgid "Unpromote"
+#~ msgstr "Nicht befördern"
+
+#~ msgid "%s selected items?"
+#~ msgstr "Selektierte Einträge %s?"
+
+#~ msgid "Translate in a new language"
+#~ msgstr "Übersetzen in einer neuen Sprache"
+
+#~ msgid "No translations available."
+#~ msgstr "Keine Übersetzungen verfügbar."
+
+#~ msgid "No items found."
+#~ msgstr "Keine Einträge gefunden."
+
+#~ msgid "Search Results: %s"
+#~ msgstr "Suchergebnisse: %s"
+
+#~ msgid "Settings"
+#~ msgstr "Einstellungen"
+
+#~ msgid "Meta"
+#~ msgstr "Meta"
+
+#~ msgid "Reading"
+#~ msgstr "Lesen"
+
+#~ msgid "Writing"
+#~ msgstr "Schreiben"
+
+#~ msgid "Languages"
+#~ msgstr "Sprachen"
+
+#~ msgid "Setting deleted"
+#~ msgstr "Einstellung gelöscht"
+
+#~ msgid "The Language has been saved"
+#~ msgstr "Sprache wurde gespeichert"
+
+#~ msgid "The Language could not be saved. Please, try again."
+#~ msgstr ""
+#~ "Die Sprache konnte nicht gespeichert werden. Bitte nochmal versuchen."
+
+#~ msgid "Edit Language"
+#~ msgstr "Sprache bearbeiten"
+
+#~ msgid "Invalid Language"
+#~ msgstr "Ungültige Sprache"
+
+#~ msgid "Invalid id for Language"
+#~ msgstr "Ungültige ID für eine Sprache"
+
+#~ msgid "Language deleted"
+#~ msgstr "Sprache gelöscht"
+
+#~ msgid "Select a language"
+#~ msgstr "Sprache auswählen"
+
+#~ msgid "Invalid Setting."
+#~ msgstr "Ungültige Einstellung"
+
+#~ msgid "Add Setting"
+#~ msgstr "Einstellung hinzufügen"
+
+#~ msgid "The Setting has been saved"
+#~ msgstr "Einstellung gespeichert"
+
+#~ msgid "The Setting could not be saved. Please, try again."
+#~ msgstr ""
+#~ "Einstellung konnten nicht gespeichert werden. Bitte nochmal versuchen"
+
+#~ msgid "Edit Setting"
+#~ msgstr "Einstellung bearbeiten"
+
+#~ msgid "Invalid Setting"
+#~ msgstr "Ungültige Einstellung"
+
+#~ msgid "Invalid id for Setting"
+#~ msgstr "Ungültige ID für Einstellung"
+
+#~ msgid "Settings: %s"
+#~ msgstr "Einstellungen: %s"
+
+#~ msgid "Settings updated successfully"
+#~ msgstr "Einstellungen erfolgreich aktualisiert"
+
+#~ msgid "Invalid Setting key"
+#~ msgstr "Ungültiger Einstellungsschlüssel"
+
+#~ msgid "Could not add a new language."
+#~ msgstr "Neue Sprache konnte nicht hinzugefügt werden."
+
+#~ msgid "Language"
+#~ msgstr "Sprache"
+
+#~ msgid "e.g., 'Site.title'"
+#~ msgstr "z.B. 'Site.title'"
+
+#~ msgid "Input Type"
+#~ msgstr "Eingabetyp"
+
+#~ msgid "e.g., 'text' or 'textarea'"
+#~ msgstr "z.B. 'text' oder 'textarea'"
+
+#~ msgid "Setting"
+#~ msgstr "Einstellung"
+
+#~ msgid "Weight"
+#~ msgstr "Gewicht"
+
+#~ msgid "New Setting"
+#~ msgstr "Neue Einstellung"
+
+#~ msgid "Content Types"
+#~ msgstr "Inhaltstypen"
+
+#~ msgid "Taxonomy"
+#~ msgstr "Klassifizierung"
+
+#~ msgid "Vocabulary: %s"
+#~ msgstr "Klassifizierungsliste: %s"
+
+#~ msgid "Term saved successfuly."
+#~ msgstr "Begriff erfolgreich gespeichert."
+
+#~ msgid "Term could not be added to the vocabulary. Please try again."
+#~ msgstr ""
+#~ "Der Begriff konnte nicht der Klassifizierungsliste hinzugefügt werden. "
+#~ "Bitte nochmal versuchen."
+
+#~ msgid "%s: Edit Term"
+#~ msgstr "%s: Begriff bearbeiten"
+
+#~ msgid "Term deleted"
+#~ msgstr "Begriff gelöscht"
+
+#~ msgid "Invalid Vocabulary ID."
+#~ msgstr "Ungültige ID für Klassifizierungsliste"
+
+#~ msgid "Edit Type"
+#~ msgstr "Typ bearbeiten"
+
+#~ msgid "Invalid id for Type"
+#~ msgstr "Ungültige ID für Typ"
+
+#~ msgid "Type deleted"
+#~ msgstr "Typ gelöscht"
+
+#~ msgid "Vocabularies"
+#~ msgstr "Klassifizierungslisten"
+
+#~ msgid "Add Vocabulary"
+#~ msgstr "Klassifizierungsliste hinzufügen"
+
+#~ msgid "The Vocabulary could not be saved. Please, try again."
+#~ msgstr ""
+#~ "Klassifizierungsliste konnte nicht gespeichert werden. Bitte noch mal "
+#~ "versuchen."
+
+#~ msgid "Edit Vocabulary"
+#~ msgstr "Klassifizierungsliste bearbeiten"
+
+#~ msgid "Invalid Vocabulary"
+#~ msgstr "Ungültige Klassifizierungsliste"
+
+#~ msgid "Invalid id for Vocabulary"
+#~ msgstr "Ungültige ID für Klassifizierungsliste"
+
+#~ msgid "Vocabulary deleted"
+#~ msgstr "Klassifizierungsliste gelöscht"
+
+#~ msgid "Terms"
+#~ msgstr "Begriffe"
+
+#~ msgid "Term"
+#~ msgstr "Begriff"
+
+#~ msgid "Vocabulary"
+#~ msgstr "Klassifizierungsliste"
+
+#~ msgid "Show author's name"
+#~ msgstr "Name des Autors zeigen"
+
+#~ msgid "Show date"
+#~ msgstr "Datum zeigen"
+
+#~ msgid "Options"
+#~ msgstr "Optionen"
+
+#~ msgid "Invalid ID."
+#~ msgstr "Ungültige ID"
+
+#~ msgid "Invalid record."
+#~ msgstr "Ungültiges Record."
+
+#~ msgid "Translations: %s"
+#~ msgstr "Übersetzungen: %s"
+
+#~ msgid "Invalid locale"
+#~ msgstr "Ungültige Locale"
+
+#~ msgid "Translate content: %s (%s)"
+#~ msgstr "Inhalt übersetzen: %s (%s)"
+
+#~ msgid "Record has been translated"
+#~ msgstr "Record wurde übersetzt"
+
+#~ msgid "Record could not be translated. Please, try again."
+#~ msgstr "Record konnte nicht übersetzt werden. Bitte nochmal versuchen."
+
+#~ msgid "Invalid Locale or ID"
+#~ msgstr "Ungültige Locale oder ID"
+
+#~ msgid "Translation for the locale deleted successfully."
+#~ msgstr "Übersetzung für die Locale erfolgreich gelöscht."
+
+#~ msgid "Translation for the locale could not be deleted."
+#~ msgstr "Übersetzung für die Locale konnte nicht gelöscht werden."
+
+#~ msgid ""
+#~ "Datasource %s for CroogoTranslateBehavior of model %s is not connected"
+#~ msgstr ""
+#~ "Datenquelle %s für CroogoTranslateBehavior vom Model %s ist nicht "
+#~ "verbunden"
+
+#~ msgid "Roles"
+#~ msgstr "Rollen"
+
+#~ msgid "Reset password"
+#~ msgstr "Passwort zurücksetzten"
+
+#~ msgid "Add Role"
+#~ msgstr "Rolle hinzufügen"
+
+#~ msgid "Edit Role"
+#~ msgstr "Rolle bearbeiten"
+
+#~ msgid "Invalid Role"
+#~ msgstr "Ungültige Rolle"
+
+#~ msgid "Invalid id for Role"
+#~ msgstr "Ungültige ID für Rolle"
+
+#~ msgid "Role deleted"
+#~ msgstr "Rolle gelöscht"
+
+#~ msgid ""
+#~ "You have reached maximum limit for failed login attempts. Please try "
+#~ "again after a few minutes."
+#~ msgstr ""
+#~ "Sie haben die Höchstgrenze an Login-Versuche erreicht. Bitte versuchen "
+#~ "Sie es später noch einmal."
+
+#~ msgid "[%s] Please activate your account"
+#~ msgstr "[%s] Bitte aktivieren Sie Ihren Benutzerkonto"
+
+#~ msgid "The User could not be saved. Please, try again."
+#~ msgstr "Benutzer konnte nicht gespeichert werden. Bitte nochmal versuchen"
+
+#~ msgid "Invalid User"
+#~ msgstr "Ungültiger Benutzer"
+
+#~ msgid "Password has been reset."
+#~ msgstr "Passwort wurde zurückgesetzt."
+
+#~ msgid "Password could not be reset. Please, try again."
+#~ msgstr ""
+#~ "Passwort konnte nicht zurückgesetzt werden. Bitte nochmal versuchen."
+
+#~ msgid "Invalid id for User"
+#~ msgstr "Ungültige ID für Benutzer"
+
+#~ msgid "User deleted"
+#~ msgstr "Benutzer gelöscht"
+
+#~ msgid "User cannot be deleted"
+#~ msgstr "Benutzer kann nicht gelöscht werden"
+
+#~ msgid "Admin Login"
+#~ msgstr "Admin Login"
+
+#~ msgid "Log out successful."
+#~ msgstr "Erfolgreich abgemeldet."
+
+#~ msgid "Register"
+#~ msgstr "Registrieren"
+
+#~ msgid ""
+#~ "You have successfully registered an account. An email has been sent with "
+#~ "further instructions."
+#~ msgstr ""
+#~ "Sie haben erfolgreich ein Benutzerkonto erstellt. Eine Email mit weiteren "
+#~ "Informationen wurde gesendet."
+
+#~ msgid "You are currently logged in as:"
+#~ msgstr "Sie sind eingeloggt als:"
+
+#~ msgid "Account activated successfully."
+#~ msgstr "Benutzerkonto erfolgreich aktiviert."
+
+#~ msgid "Invalid username."
+#~ msgstr "Ungültiger Benutzername"
+
+#~ msgid "[%s] Reset Password"
+#~ msgstr "[%s] Passwort zurücksetzen"
+
+#~ msgid "An error occurred. Please try again."
+#~ msgstr "Ein Fehler ist aufgetreten. Bitte nochmal versuchen."
+
+#~ msgid "Reset Password"
+#~ msgstr "Password zurückzusetzen"
+
+#~ msgid "Log in"
+#~ msgstr "Einloggen"
+
+#~ msgid "Invalid User."
+#~ msgstr "Ungültiger Benutzername."
+
+#~ msgid "Please visit this link to reset your password: %s"
+#~ msgstr "Bitte folgen Sie diesen Link, um ihren Passwort zurückzusetzen: %s"
+
+#~ msgid ""
+#~ "If you did not request a password reset, then please ignore this email."
+#~ msgstr ""
+#~ "Wenn Sie ihr Passwort nicht zurücksetzten wollten, bitte ignorieren Sie "
+#~ "die Email."
+
+#~ msgid "Please visit this link to activate your account: %s"
+#~ msgstr ""
+#~ "Bitte folgen Sie diesen Link, um ihren Benutzerkonto zu aktivieren: %s"
+
+#~ msgid "Log In"
+#~ msgstr "Einloggen"
+
+#~ msgid "Title cannot be empty."
+#~ msgstr "Sie müssen einen Titel eingeben."
+
+#~ msgid "This alias has already been taken."
+#~ msgstr "Alias existiert bereits."
+
+#~ msgid "Alias cannot be empty."
+#~ msgstr "Sie müssen ein Alias eingeben."
+
+#~ msgid "This field cannot be left blank."
+#~ msgstr "Dieses Feld muss ausgefüllt werden."
+
+#~ msgid "Please provide a valid email address."
+#~ msgstr "Bitte geben Sie eine gültige Emailadresse ein."
+
+#~ msgid "This slug has already been taken."
+#~ msgstr "Dieses Slug existiert bereits."
+
+#~ msgid "Slug cannot be empty."
+#~ msgstr "Sie müssen ein Slug eingeben."
+
+#~ msgid "Link cannot be empty."
+#~ msgstr "Sie müssen ein Link eingeben."
+
+#~ msgid "This key has already been taken."
+#~ msgstr "Dieser Schlüssel existiert bereits."
+
+#~ msgid "Key cannot be empty."
+#~ msgstr "Sie müssen einen Schlüssel eingeben."
+
+#~ msgid "Passwords must be at least 6 characters long."
+#~ msgstr "Passwörter müssen mindestens 6 Zeichen lang sein."
+
+#~ msgid "This field must be a valid URL"
+#~ msgstr "Dieses Feld muss eine gültige URL enthalten"
+
+#~ msgid "Nodes published"
+#~ msgstr "Nodes veröffentlicht"
+
+#~ msgid "Nodes unpublished"
+#~ msgstr "Nodes unveröffentlicht"
+
+#~ msgid "Nodes promoted"
+#~ msgstr "Nodes befördern"
+
+#~ msgid "Nodes unpromoted"
+#~ msgstr "Nodes nicht befördern"
+
+#, fuzzy
+#~ msgid "Nodes copied"
+#~ msgstr "Nodes veröffentlicht"
+
+#~ msgid "Invalid Node"
+#~ msgstr "Ungültiges Node"
+
+#~ msgid "You are logged in as: %s"
+#~ msgstr "Sie sind eingeloggt als: %s"
+
+#~ msgid "Log out"
+#~ msgstr "Abmelden"
+
+#~ msgid "Link to a Node"
+#~ msgstr "Link zu ein Node"
+
+#~ msgid "Nodes"
+#~ msgstr "Nodes"
+
+#~ msgid "Term with same slug already exists in the vocabulary."
+#~ msgstr ""
+#~ "Ein Begriff mit dem gleichen Slug existiert bereits in der "
+#~ "Klassifizierungsliste."
+
+#~ msgid "Term could not be saved. Please try again."
+#~ msgstr ""
+#~ "Der Begriff konnte nicht gespeichert werden. Bitte nochmal versuchen"
+
+#~ msgid "Invalid id for Term"
+#~ msgstr "Ungültige ID für Begriff"
+
+#~ msgid "CakePhp version %s >= %s"
+#~ msgstr "CakePHP Version %s >= %s"
+
+#~ msgid "Theme deactivated successfully."
+#~ msgstr "Theme erfolgreich deaktiviert."
+
+#~ msgid "Blocks deleted."
+#~ msgstr "Blöcke gelöscht"
+
+#~ msgid "Comments deleted."
+#~ msgstr "Kommentare gelöscht"
+
+#~ msgid "New Directory"
+#~ msgstr "Neues Verzeichnis"
+
+#~ msgid "New File"
+#~ msgstr "Neue Datei"
+
+#~ msgid "Edit content: %s"
+#~ msgstr "Inhalt bearbeiten: %s"
+
+#~ msgid "Nodes deleted."
+#~ msgstr "Nodes gelöscht"
+
+#~ msgid "New Action"
+#~ msgstr "Neue Aktion"
+
+#~ msgid "Generate Actions"
+#~ msgstr "Aktionen erstellen"
+
+#~ msgid "Example"
+#~ msgstr "Beispiel"
+
+#~ msgid "Example 1"
+#~ msgstr "Beispiel 1"
+
+#~ msgid "Example 2"
+#~ msgstr "Beispiel 2"
+
+#~ msgid "Welcome %s.  Have a nice day"
+#~ msgstr "Willkommen %s."
+
+#~ msgid "New Tab"
+#~ msgstr "Neue Registerkarte"
+
+#~ msgid "The file default.po does not exist."
+#~ msgstr "Die Datei default.po existiert nicht."
+
+#~ msgid "Editor"
+#~ msgstr "Editor"
+
+#~ msgid "Could not connect to database: %s"
+#~ msgstr "Keine Datenbankverbindung möglich"
+
+#~ msgid "Could not write croogo.php file."
+#~ msgstr "Die Datei 'croogo.php' konnte nicht geschrieben werden."
+
+#~ msgid "Could not create table: %s"
+#~ msgstr "Konnte nicht Tabelle erstellen: %s"
+
+#~ msgid "Installation completed successfully"
+#~ msgstr "Installation erfolgreich beendet"
+
+#~ msgid "PHP version %s > 5"
+#~ msgstr "PHP Version %s > 5"
+
+#~ msgid "PHP version %s < 5"
+#~ msgstr "PHP Version %s < 5"
+
+#~ msgid "Record"
+#~ msgstr "Record"
+
+#~ msgid "Info"
+#~ msgstr "Info"
+
+#~ msgid "Custom fields"
+#~ msgstr "Selbstdefinierte Felder"
+
+#~ msgid "Format"
+#~ msgstr "Format"

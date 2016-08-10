@@ -1,0 +1,66 @@
+.topbar { margin-bottom: 20px;}
+
+form .input input,form .input textarea{	margin-left: 20px;}
+form .input label{ width: 130px;}
+.alignLeft{ float:left; margin-right: 10px; }
+.alignRight{ float:right; margin-left: 10px; }
+.alignCenter{ display:block; margin:0 auto; }
+.cb{clear:both;}
+.toto{display: none;}
+
+a.sidebar {
+	color: gray;
+	padding: 20px 0;
+	border-bottom: 1px solid #cccccc;
+	display: block;
+	text-decoration: none;
+	-webkit-transition-duration: 0.3s;
+	-moz-transition-duration: 0.3s;
+	-ms-transition-duration: 0.3s;
+	-o-transition-duration: 0.3s;
+	transition-duration: 0.3s; }
+	a.sidebar img {
+		float: left;
+		width: 50px;
+		vertical-align: middle;
+		margin: 0 15px; }
+	a.sidebar p {
+		margin-bottom: 0; }
+	a.sidebar:hover, {
+		text-decoration: none;
+		background-color: #ff0000 !important;
+		color: #FFF; }
+	a.sidebar:hover {
+		text-decoration: none; }
+	.nav-tabs.nav-stacked>.active>a, .nav-tabs.nav-stacked>.active>a:hover {
+		color: #BBB !important;
+		background-color: #FFF !important;
+}
+
+/*
+tableau
+ */
+		 #button{
+			float: right;
+			margin-right: 40px;
+
+		}
+		 .tabbtn{
+			width: 130px;
+		 }
+		 .tabid{
+			width: 50px;
+		 }
+
+img{width:auto\9;
+		height:auto;
+		max-width:100%;
+		vertical-align:middle;
+		border:0;
+	}
+
+
+
+/* .submit{
+
+} */
